@@ -1,0 +1,10 @@
+{
+  "site_name": "PyPkg Compare",
+  "tagline": "Python package download stats and side-by-side comparisons, refreshed daily",
+  "top_n": 300,
+  "pairs_per_topic": 8,
+  "head_html": "",
+  "affiliate_title": "Recommended",
+  "affiliate_links": [],
+  "disclosure": ""
+}

@@ -1,0 +1,8 @@
+requests httpx aiohttp urllib3 flask django fastapi starlette tornado bottle
+numpy pandas polars scipy matplotlib seaborn plotly bokeh
+pytest tox nox coverage hypothesis
+sqlalchemy peewee psycopg2 pymongo redis
+click typer rich tqdm pydantic attrs marshmallow
+black ruff flake8 pylint mypy isort
+beautifulsoup4 lxml scrapy selenium playwright
+celery rq dramatiq pillow opencv-python jinja2 mako
