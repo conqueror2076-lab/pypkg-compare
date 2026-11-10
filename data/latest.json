@@ -11,6 +11,8 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/boto/boto3",
   "home": "https://github.com/boto/boto3",
   "downloads": 2672326221,
@@ -28,6 +30,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pypa/packaging",
   "home": "",
   "downloads": 1804970966,
@@ -47,6 +51,21 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [
+   "annotations",
+   "backport",
+   "checker",
+   "checking",
+   "function",
+   "hinting",
+   "hints",
+   "type",
+   "typechecking",
+   "typehinting",
+   "typehints",
+   "typing"
+  ],
   "repo": "https://github.com/python/typing_extensions/issues",
   "home": "",
   "downloads": 1703924604,
@@ -64,6 +83,8 @@
   "python": ">=3.7",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/certifi/python-certifi",
   "home": "https://github.com/certifi/python-certifi",
   "downloads": 1630254774,
@@ -85,6 +106,10 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Internet :: Name Service (DNS)"
+  ],
+  "keywords": [],
   "repo": "https://github.com/kjd/idna/blob/master/HISTORY.md",
   "home": "",
   "downloads": 1620688013,
@@ -104,6 +129,19 @@
   "topics": [
    "Internet",
    "Software Development"
+  ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "filepost",
+   "http",
+   "httplib",
+   "https",
+   "pooling",
+   "ssl",
+   "threadsafe",
+   "urllib"
   ],
   "repo": "https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
   "home": "",
@@ -125,6 +163,19 @@
    "Text Processing",
    "Utilities"
   ],
+  "tags": [
+   "Text Processing :: Linguistic"
+  ],
+  "keywords": [
+   "chardet",
+   "charset",
+   "charset-detector",
+   "detect",
+   "detector",
+   "encoding",
+   "normalization",
+   "unicode"
+  ],
   "repo": "https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
   "home": "",
   "downloads": 1450738525,
@@ -145,6 +196,10 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/psf/requests",
   "home": "",
   "downloads": 1442443869,
@@ -164,6 +219,10 @@
   "topics": [
    "Security"
   ],
+  "tags": [
+   "Security :: Cryptography"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pyca/cryptography",
   "home": "",
   "downloads": 1317045984,
@@ -181,6 +240,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python-cffi/cffi/releases",
   "home": "",
   "downloads": 1189919852,
@@ -201,6 +262,10 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pytest-dev/pluggy",
   "home": "https://github.com/pytest-dev/pluggy",
   "downloads": 1167881064,
@@ -221,6 +286,10 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup"
+  ],
+  "keywords": [],
   "repo": "https://github.com/yaml/pyyaml/issues",
   "home": "https://pyyaml.org/",
   "downloads": 1150102481,
@@ -238,6 +307,8 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/eliben/pycparser",
   "home": "https://github.com/eliben/pycparser",
   "downloads": 1132465945,
@@ -258,6 +329,13 @@
    "Text Processing",
    "Utilities"
   ],
+  "tags": [
+   "Text Processing :: Filters"
+  ],
+  "keywords": [
+   "highlighting",
+   "syntax"
+  ],
   "repo": "https://github.com/pygments/pygments/issues",
   "home": "https://pygments.org",
   "downloads": 1127020755,
@@ -277,6 +355,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/dateutil/dateutil",
   "home": "https://github.com/dateutil/dateutil",
   "downloads": 1126142541,
@@ -297,6 +377,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/benjaminp/six",
   "home": "https://github.com/benjaminp/six",
   "downloads": 1096144423,
@@ -318,6 +400,18 @@
    "System",
    "Utilities"
   ],
+  "tags": [
+   "System :: Archiving :: Packaging",
+   "System :: Systems Administration"
+  ],
+  "keywords": [
+   "cpan",
+   "distutils",
+   "eggs",
+   "management",
+   "package",
+   "pypi"
+  ],
   "repo": "https://github.com/pypa/setuptools",
   "home": "",
   "downloads": 1090102299,
@@ -338,6 +432,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/sponsors/samuelcolvin",
   "home": "https://github.com/pydantic/pydantic",
   "downloads": 1070556738,
@@ -355,6 +451,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/sponsors/samuelcolvin",
   "home": "https://github.com/pydantic/pydantic",
   "downloads": 1046454887,
@@ -372,6 +470,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pallets/click/",
   "home": "",
   "downloads": 1027608772,
@@ -392,6 +492,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/numpy/numpy",
   "home": "",
   "downloads": 1025805630,
@@ -409,6 +513,8 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/boto/botocore",
   "home": "https://github.com/boto/botocore",
   "downloads": 998168260,
@@ -426,6 +532,8 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/agronholm/anyio/issues",
   "home": "",
   "downloads": 963847386,
@@ -445,6 +553,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/annotated-types/annotated-types/releases",
   "home": "https://github.com/annotated-types/annotated-types",
   "downloads": 928756916,
@@ -464,6 +574,13 @@
   "topics": [
    "Software Development",
    "Utilities"
+  ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [
+   "test",
+   "unittest"
   ],
   "repo": "https://github.com/pytest-dev/pytest",
   "home": "https://docs.pytest.org/en/latest/",
@@ -485,6 +602,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pytest-dev/iniconfig",
   "home": "https://github.com/pytest-dev/iniconfig",
   "downloads": 921191155,
@@ -504,6 +623,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pydantic/typing-inspection/blob/main/HISTORY.md",
   "home": "https://github.com/pydantic/typing-inspection",
   "downloads": 899117357,
@@ -524,6 +645,11 @@
    "Internet",
    "System"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP",
+   "System :: Networking"
+  ],
+  "keywords": [],
   "repo": "https://github.com/python-hyper/h11",
   "home": "https://github.com/python-hyper/h11",
   "downloads": 892310414,
@@ -541,6 +667,12 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "attribute",
+   "boilerplate",
+   "class"
+  ],
   "repo": "https://github.com/sponsors/hynek",
   "home": "",
   "downloads": 844210094,
@@ -561,6 +693,11 @@
    "Internet",
    "Text Processing"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Text Processing :: Markup :: HTML"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pallets/markupsafe/",
   "home": "",
   "downloads": 816280940,
@@ -580,6 +717,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/encode/httpx/blob/master/CHANGELOG.md",
   "home": "https://github.com/encode/httpx",
   "downloads": 753211440,
@@ -599,6 +740,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/encode/httpcore",
   "home": "https://www.encode.io/httpcore/",
   "downloads": 749643859,
@@ -616,6 +761,8 @@
   "python": ">=3.10",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/boto/s3transfer",
   "home": "https://github.com/boto/s3transfer",
   "downloads": 731152180,
@@ -633,6 +780,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "",
   "home": "https://developers.google.com/protocol-buffers/",
   "downloads": 726176210,
@@ -653,6 +802,18 @@
    "System",
    "Utilities"
   ],
+  "tags": [
+   "System :: Systems Administration"
+  ],
+  "keywords": [
+   "configurations",
+   "deployments",
+   "dotenv",
+   "env",
+   "environment",
+   "settings",
+   "variables"
+  ],
   "repo": "https://github.com/theskumar/python-dotenv",
   "home": "",
   "downloads": 719745460,
@@ -671,6 +832,15 @@
   "deps": 2,
   "topics": [
    "Utilities"
+  ],
+  "tags": [],
+  "keywords": [
+   "json",
+   "jwt",
+   "security",
+   "signing",
+   "token",
+   "web"
   ],
   "repo": "https://github.com/jpadilla/pyjwt",
   "home": "https://github.com/jpadilla/pyjwt",
@@ -692,6 +862,11 @@
    "Internet",
    "Text Processing"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Text Processing :: Markup :: HTML"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pallets/jinja/",
   "home": "",
   "downloads": 676105807,
@@ -711,6 +886,10 @@
   "topics": [
    "Scientific/Engineering"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pandas-dev/pandas/issues",
   "home": "",
   "downloads": 668774916,
@@ -728,6 +907,8 @@
   "python": ">=3.10",
   "deps": 12,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/aiobotocore",
   "home": "",
   "downloads": 661062014,
@@ -747,6 +928,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sponsors/Kludex",
   "home": "https://github.com/Kludex/starlette",
   "downloads": 653661162,
@@ -764,6 +949,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-api",
   "downloads": 649967006,
@@ -782,6 +969,15 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "appdirs",
+   "application",
+   "cache",
+   "directory",
+   "log",
+   "user"
   ],
   "repo": "https://github.com/tox-dev/platformdirs",
   "home": "https://github.com/tox-dev/platformdirs",
@@ -802,6 +998,16 @@
   "topics": [
    "Multimedia"
   ],
+  "tags": [
+   "Multimedia :: Graphics",
+   "Multimedia :: Graphics :: Capture :: Digital Camera",
+   "Multimedia :: Graphics :: Capture :: Screen Capture",
+   "Multimedia :: Graphics :: Graphics Conversion",
+   "Multimedia :: Graphics :: Viewers"
+  ],
+  "keywords": [
+   "imaging"
+  ],
   "repo": "https://github.com/python-pillow/Pillow/releases",
   "home": "https://python-pillow.org",
   "downloads": 643243505,
@@ -821,6 +1027,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sponsors/Kludex",
   "home": "https://uvicorn.dev/",
   "downloads": 616894956,
@@ -841,6 +1051,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/cpburnz/python-pathspec/issues",
   "home": "",
   "downloads": 612399445,
@@ -858,6 +1070,13 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "data",
+   "persistent",
+   "rust",
+   "structures"
+  ],
   "repo": "https://github.com/sponsors/Julian",
   "home": "https://github.com/crate-py/rpds",
   "downloads": 612139447,
@@ -875,6 +1094,10 @@
   "python": ">=3.10",
   "deps": 103,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "file"
+  ],
   "repo": "https://github.com/fsspec/filesystem_spec",
   "home": "https://github.com/fsspec/filesystem_spec",
   "downloads": 609030610,
@@ -893,6 +1116,17 @@
   "deps": 21,
   "topics": [
    "File Formats"
+  ],
+  "tags": [
+   "File Formats :: JSON",
+   "File Formats :: JSON :: JSON Schema"
+  ],
+  "keywords": [
+   "data",
+   "json",
+   "jsonschema",
+   "schema",
+   "validation"
   ],
   "repo": "https://github.com/python-jsonschema/jsonschema/blob/main/CHANGELOG.rst",
   "home": "https://github.com/python-jsonschema/jsonschema",
@@ -914,6 +1148,12 @@
    "Software Development",
    "System"
   ],
+  "tags": [],
+  "keywords": [
+   "file",
+   "lock",
+   "synchronization"
+  ],
   "repo": "https://github.com/tox-dev/filelock",
   "home": "https://github.com/tox-dev/filelock",
   "downloads": 595937898,
@@ -931,6 +1171,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jmespath/jmespath.py",
   "home": "https://github.com/jmespath/jmespath.py",
   "downloads": 588581578,
@@ -948,6 +1190,8 @@
   "python": ">=2",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python/tzdata/issues",
   "home": "https://github.com/python/tzdata",
   "downloads": 574947834,
@@ -967,6 +1211,17 @@
   "topics": [
    "File Formats"
   ],
+  "tags": [
+   "File Formats :: JSON",
+   "File Formats :: JSON :: JSON Schema"
+  ],
+  "keywords": [
+   "asyncapi",
+   "json",
+   "jsonschema",
+   "openapi",
+   "referencing"
+  ],
   "repo": "https://github.com/sponsors/Julian",
   "home": "https://github.com/python-jsonschema/referencing",
   "downloads": 566430819,
@@ -984,6 +1239,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python-poetry/tomlkit/blob/master/CHANGELOG.md",
   "home": "https://github.com/python-poetry/tomlkit",
   "downloads": 565037507,
@@ -1003,6 +1260,17 @@
   "topics": [
    "File Formats"
   ],
+  "tags": [
+   "File Formats :: JSON",
+   "File Formats :: JSON :: JSON Schema"
+  ],
+  "keywords": [
+   "data",
+   "json",
+   "jsonschema",
+   "schema",
+   "validation"
+  ],
   "repo": "https://github.com/sponsors/Julian",
   "home": "https://github.com/python-jsonschema/jsonschema-specifications",
   "downloads": 562630693,
@@ -1020,6 +1288,8 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/multidict/actions",
   "home": "https://github.com/aio-libs/multidict",
   "downloads": 556032554,
@@ -1040,6 +1310,16 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup"
+  ],
+  "keywords": [
+   "commonmark",
+   "lexer",
+   "markdown",
+   "markdown-it",
+   "parser"
+  ],
   "repo": "https://github.com/executablebooks/markdown-it-py",
   "home": "https://github.com/executablebooks/markdown-it-py",
   "downloads": 546655802,
@@ -1057,6 +1337,8 @@
   "python": ">=3.9.0",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/Textualize/rich",
   "home": "https://github.com/Textualize/rich",
   "downloads": 546356936,
@@ -1076,6 +1358,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/aiohttp/actions?query=workflow%3ACI",
   "home": "https://github.com/aio-libs/aiohttp",
   "downloads": 544736474,
@@ -1096,6 +1382,14 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "cext",
+   "cython",
+   "yarl"
+  ],
   "repo": "https://github.com/aio-libs/yarl/actions?query=branch:master",
   "home": "https://github.com/aio-libs/yarl",
   "downloads": 540070946,
@@ -1114,6 +1408,11 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "commonmark",
+   "markdown"
   ],
   "repo": "https://github.com/executablebooks/mdurl",
   "home": "https://github.com/executablebooks/mdurl",
@@ -1135,6 +1434,14 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "cext",
+   "cython",
+   "propcache"
+  ],
   "repo": "https://github.com/aio-libs/propcache/actions?query=branch:master",
   "home": "https://github.com/aio-libs/propcache",
   "downloads": 519223742,
@@ -1154,6 +1461,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Build Tools"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pypa/pip",
   "home": "https://pip.pypa.io/",
   "downloads": 517082117,
@@ -1174,6 +1485,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/fastapi/annotated-doc/release-notes.md",
   "home": "https://github.com/fastapi/annotated-doc",
   "downloads": 508419147,
@@ -1191,6 +1504,10 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "websocket"
+  ],
   "repo": "https://github.com/python-websockets/websockets",
   "home": "https://github.com/python-websockets/websockets",
   "downloads": 507255617,
@@ -1211,6 +1528,11 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP",
+   "Internet :: WWW/HTTP :: HTTP Servers"
+  ],
+  "keywords": [],
   "repo": "https://github.com/fastapi/fastapi",
   "home": "https://github.com/fastapi/fastapi",
   "downloads": 506417450,
@@ -1230,6 +1552,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos",
   "home": "",
   "downloads": 497405873,
@@ -1249,6 +1573,14 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [
+   "datetime",
+   "olson",
+   "time",
+   "timezone",
+   "tzinfo"
+  ],
   "repo": "https://github.com/stub42/pytz/issues",
   "home": "http://pythonhosted.org/pytz",
   "downloads": 495211887,
@@ -1266,6 +1598,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/frozenlist/actions",
   "home": "https://github.com/aio-libs/frozenlist",
   "downloads": 490753544,
@@ -1292,6 +1626,33 @@
    "Terminals",
    "Utilities"
   ],
+  "tags": [
+   "Desktop Environment",
+   "Education :: Computer Aided Instruction (CAI)",
+   "Education :: Testing",
+   "Office/Business",
+   "Other/Nonlisted Topic",
+   "Software Development :: Build Tools",
+   "Software Development :: Pre-processors",
+   "Software Development :: User Interfaces",
+   "System :: Installation/Setup",
+   "System :: Logging",
+   "System :: Monitoring",
+   "System :: Shells",
+   "Terminals"
+  ],
+  "keywords": [
+   "bar",
+   "console",
+   "eta",
+   "meter",
+   "progress",
+   "progressbar",
+   "progressmeter",
+   "rate",
+   "terminal",
+   "time"
+  ],
   "repo": "https://github.com/tqdm/tqdm",
   "home": "",
   "downloads": 481011472,
@@ -1312,6 +1673,10 @@
    "Communications",
    "Software Development"
   ],
+  "tags": [
+   "Communications"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pyasn1/pyasn1",
   "home": "https://github.com/pyasn1/pyasn1",
   "downloads": 478530370,
@@ -1329,6 +1694,8 @@
   "python": ">=3.9",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/aiosignal/actions",
   "home": "https://github.com/aio-libs/aiosignal",
   "downloads": 476527133,
@@ -1348,6 +1715,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/aiohappyeyeballs/issues",
   "home": "",
   "downloads": 474630624,
@@ -1365,6 +1734,12 @@
   "python": ">=3.7",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "async",
+   "asyncio",
+   "trio"
+  ],
   "repo": "https://github.com/python-trio/sniffio",
   "home": "https://github.com/python-trio/sniffio",
   "downloads": 474035549,
@@ -1385,6 +1760,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pydantic/pydantic-settings/releases",
   "home": "https://github.com/pydantic/pydantic-settings",
   "downloads": 463559056,
@@ -1402,6 +1779,12 @@
   "python": ">=3.9",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "decorator",
+   "proxy",
+   "wrapper"
+  ],
   "repo": "https://github.com/GrahamDumpleton/wrapt/issues/",
   "home": "https://github.com/GrahamDumpleton/wrapt",
   "downloads": 455669990,
@@ -1421,6 +1804,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/Kludex/python-multipart/blob/master/CHANGELOG.md",
   "home": "https://github.com/Kludex/python-multipart",
   "downloads": 442464422,
@@ -1440,6 +1825,15 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "auth",
+   "client",
+   "google",
+   "oauth"
+  ],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth",
   "downloads": 430311083,
@@ -1457,6 +1851,8 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/apache/arrow/issues",
   "home": "https://arrow.apache.org/",
   "downloads": 429406703,
@@ -1474,6 +1870,10 @@
   "python": "Not specified",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "classifiers"
+  ],
   "repo": "https://github.com/pypa/trove-classifiers",
   "home": "https://github.com/pypa/trove-classifiers",
   "downloads": 418058349,
@@ -1491,6 +1891,8 @@
   "python": ">=3.10",
   "deps": 18,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jaraco/zipp",
   "home": "",
   "downloads": 414687330,
@@ -1511,6 +1913,11 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup :: HTML",
+   "Text Processing :: Markup :: XML"
+  ],
+  "keywords": [],
   "repo": "https://github.com/lxml/lxml",
   "home": "https://lxml.de/",
   "downloads": 413464934,
@@ -1530,6 +1937,8 @@
   "topics": [
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jd/tenacity",
   "home": "https://github.com/jd/tenacity",
   "downloads": 407422649,
@@ -1547,6 +1956,8 @@
   "python": ">=3.11",
   "deps": 18,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python/importlib_metadata",
   "home": "",
   "downloads": 399808222,
@@ -1567,6 +1978,10 @@
    "Communications",
    "Software Development"
   ],
+  "tags": [
+   "Communications"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pyasn1/pyasn1-modules/blob/master/CHANGES.txt",
   "home": "https://github.com/pyasn1/pyasn1-modules",
   "downloads": 396862529,
@@ -1585,6 +2000,17 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [
+   "Software Development :: Quality Assurance"
+  ],
+  "keywords": [
+   "automation",
+   "clippy",
+   "flake8",
+   "pycodestyle",
+   "pyflakes",
+   "pylint"
   ],
   "repo": "https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md",
   "home": "https://docs.astral.sh/ruff",
@@ -1605,6 +2031,10 @@
   "topics": [
    "Database"
   ],
+  "tags": [
+   "Database :: Front-Ends"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sqlalchemy/sqlalchemy/discussions",
   "home": "https://www.sqlalchemy.org",
   "downloads": 394679025,
@@ -1624,6 +2054,10 @@
   "topics": [
    "File Formats"
   ],
+  "tags": [
+   "File Formats :: JSON"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pydantic/jiter/",
   "home": "https://github.com/pydantic/jiter/",
   "downloads": 393416416,
@@ -1642,6 +2076,14 @@
   "deps": 5,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "concurrency",
+   "cooperative",
+   "coroutine",
+   "greenlet",
+   "threads"
   ],
   "repo": "https://github.com/python-greenlet/greenlet/issues",
   "home": "https://greenlet.readthedocs.io",
@@ -1662,6 +2104,14 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Build Tools"
+  ],
+  "keywords": [
+   "build",
+   "hatch",
+   "packaging"
+  ],
   "repo": "https://github.com/pypa/hatch/tree/master/backend",
   "home": "https://hatch.pypa.io/latest/",
   "downloads": 382322969,
@@ -1680,6 +2130,13 @@
   "deps": 1,
   "topics": [
    "System"
+  ],
+  "tags": [
+   "System :: Archiving :: Packaging"
+  ],
+  "keywords": [
+   "packaging",
+   "wheel"
   ],
   "repo": "https://github.com/pypa/wheel/issues",
   "home": "",
@@ -1701,6 +2158,11 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Software Development :: Compilers",
+   "Text Processing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pyparsing/pyparsing/",
   "home": "https://github.com/pyparsing/pyparsing/",
   "downloads": 376798447,
@@ -1718,6 +2180,8 @@
   "python": ">=3.10",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/grpc/grpc/issues",
   "home": "https://grpc.io",
   "downloads": 370169739,
@@ -1739,6 +2203,12 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Scientific/Engineering :: Information Analysis",
+   "Text Processing",
+   "Text Processing :: General"
+  ],
+  "keywords": [],
   "repo": "https://github.com/mrabarnett/mrab-regex",
   "home": "https://github.com/mrabarnett/mrab-regex",
   "downloads": 367923635,
@@ -1756,6 +2226,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/sethmlarson/truststore",
   "home": "",
   "downloads": 367414711,
@@ -1776,6 +2248,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/scipy/scipy/releases",
   "home": "",
   "downloads": 365201508,
@@ -1793,6 +2269,8 @@
   "python": ">=3.10",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "",
   "home": "https://grpc.io",
   "downloads": 362579636,
@@ -1812,6 +2290,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/openai/openai-python",
   "home": "https://github.com/openai/openai-python",
   "downloads": 359077600,
@@ -1831,6 +2311,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pydantic/httpx2/blob/main/src/httpx2/CHANGELOG.md",
   "home": "https://github.com/pydantic/httpx2",
   "downloads": 353848370,
@@ -1851,6 +2335,10 @@
    "Software Development",
    "System"
   ],
+  "tags": [
+   "System :: Filesystems"
+  ],
+  "keywords": [],
   "repo": "https://github.com/samuelcolvin/watchfiles/releases",
   "home": "https://github.com/samuelcolvin/watchfiles",
   "downloads": 353451654,
@@ -1870,6 +2358,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pydantic/httpx2/blob/main/src/httpcore2/CHANGELOG.md",
   "home": "https://github.com/pydantic/httpx2",
   "downloads": 353317458,
@@ -1891,6 +2383,45 @@
    "System",
    "Utilities"
   ],
+  "tags": [
+   "System :: Benchmark",
+   "System :: Hardware",
+   "System :: Monitoring",
+   "System :: Networking",
+   "System :: Networking :: Monitoring",
+   "System :: Networking :: Monitoring :: Hardware Watchdog",
+   "System :: Operating System",
+   "System :: Systems Administration"
+  ],
+  "keywords": [
+   "agent",
+   "free",
+   "ifconfig",
+   "ionice",
+   "iostat",
+   "iotop",
+   "kill",
+   "lsof",
+   "metrics",
+   "monitoring",
+   "netstat",
+   "nice",
+   "observability",
+   "performance",
+   "pidof",
+   "pmap",
+   "prlimit",
+   "process",
+   "pstree",
+   "smem",
+   "taskmgr",
+   "taskset",
+   "top",
+   "tty",
+   "ulimit",
+   "uptime",
+   "who"
+  ],
   "repo": "https://github.com/giampaolo/psutil",
   "home": "https://github.com/giampaolo/psutil",
   "downloads": 352457256,
@@ -1910,6 +2441,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-api-core",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-api-core",
   "downloads": 347302268,
@@ -1927,6 +2460,8 @@
   "python": ">=3.8",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "",
   "home": "https://openpyxl.readthedocs.io",
   "downloads": 337652656,
@@ -1944,6 +2479,8 @@
   "python": ">=3.8",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "",
   "home": "https://foss.heptapod.net/openpyxl/et_xmlfile",
   "downloads": 335476325,
@@ -1963,6 +2500,18 @@
   "topics": [
    "Internet",
    "Software Development"
+  ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content"
+  ],
+  "keywords": [
+   "css",
+   "filter",
+   "html",
+   "query",
+   "selector",
+   "soup",
+   "xml"
   ],
   "repo": "https://github.com/facelessuser/soupsieve",
   "home": "https://github.com/facelessuser/soupsieve",
@@ -1984,6 +2533,10 @@
    "Software Development",
    "System"
   ],
+  "tags": [
+   "System :: Operating System"
+  ],
+  "keywords": [],
   "repo": "https://github.com/python-distro/distro",
   "home": "https://github.com/python-distro/distro",
   "downloads": 331229650,
@@ -2001,6 +2554,8 @@
   "python": ">=3.10",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
   "downloads": 329926089,
@@ -2020,6 +2575,15 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Quality Assurance",
+   "Software Development :: Testing"
+  ],
+  "keywords": [
+   "code",
+   "coverage",
+   "testing"
+  ],
   "repo": "https://github.com/coveragepy/coveragepy",
   "home": "https://github.com/coveragepy/coveragepy",
   "downloads": 328644834,
@@ -2037,6 +2601,8 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
   "downloads": 323709963,
@@ -2057,6 +2623,17 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup :: HTML",
+   "Text Processing :: Markup :: SGML",
+   "Text Processing :: Markup :: XML"
+  ],
+  "keywords": [
+   "html",
+   "parse",
+   "soup",
+   "xml"
+  ],
   "repo": "",
   "home": "https://www.crummy.com/software/BeautifulSoup/bs4/",
   "downloads": 315709564,
@@ -2075,6 +2652,10 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "shell"
   ],
   "repo": "https://github.com/sarugaku/shellingham",
   "home": "https://github.com/sarugaku/shellingham",
@@ -2095,6 +2676,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sysid/sse-starlette",
   "home": "https://github.com/sysid/sse-starlette",
   "downloads": 302700566,
@@ -2112,6 +2697,10 @@
   "python": ">=3.10",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "boto"
+  ],
   "repo": "http://github.com/fsspec/s3fs/",
   "home": "http://github.com/fsspec/s3fs/",
   "downloads": 302389652,
@@ -2131,6 +2720,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python/mypy_extensions",
   "home": "https://github.com/python/mypy_extensions",
   "downloads": 299732231,
@@ -2150,6 +2741,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/fastapi/typer",
   "home": "https://github.com/fastapi/typer",
   "downloads": 293496192,
@@ -2167,6 +2760,12 @@
   "python": ">=3.10",
   "deps": 19,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "automation",
+   "llm",
+   "mcp"
+  ],
   "repo": "https://github.com/modelcontextprotocol/python-sdk/issues",
   "home": "https://modelcontextprotocol.io",
   "downloads": 293023940,
@@ -2186,6 +2785,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Code Generators"
+  ],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/proto-plus",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/proto-plus",
   "downloads": 289332986,
@@ -2204,6 +2807,19 @@
   "deps": 0,
   "topics": [
    "Terminals"
+  ],
+  "tags": [
+   "Terminals"
+  ],
+  "keywords": [
+   "ansi",
+   "color",
+   "colour",
+   "crossplatform",
+   "terminal",
+   "text",
+   "windows",
+   "xplatform"
   ],
   "repo": "https://github.com/tartley/colorama",
   "home": "https://github.com/tartley/colorama",
@@ -2225,6 +2841,24 @@
    "Software Development",
    "Terminals"
   ],
+  "tags": [
+   "Software Development :: Internationalization",
+   "Software Development :: Localization",
+   "Terminals"
+  ],
+  "keywords": [
+   "cjk",
+   "combining",
+   "console",
+   "eastasian",
+   "emoji",
+   "emulator",
+   "terminal",
+   "unicode",
+   "wcswidth",
+   "wcwidth",
+   "xterm"
+  ],
   "repo": "https://github.com/jquast/wcwidth",
   "home": "https://github.com/jquast/wcwidth",
   "downloads": 283532049,
@@ -2244,6 +2878,13 @@
   "topics": [
    "System"
   ],
+  "tags": [
+   "System :: Networking"
+  ],
+  "keywords": [
+   "asyncio",
+   "networking"
+  ],
   "repo": "https://github.com/MagicStack/uvloop",
   "home": "",
   "downloads": 280953133,
@@ -2262,6 +2903,18 @@
   "deps": 106,
   "topics": [
    "Scientific/Engineering"
+  ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [
+   "deep-learning",
+   "machine-learning",
+   "model-hub",
+   "models",
+   "natural-language-processing",
+   "pretrained-models",
+   "pytorch"
   ],
   "repo": "https://github.com/huggingface/huggingface_hub",
   "home": "https://github.com/huggingface/huggingface_hub",
@@ -2283,6 +2936,10 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: Name Service (DNS)"
+  ],
+  "keywords": [],
   "repo": "https://github.com/rthalley/dnspython/issues",
   "home": "",
   "downloads": 277076453,
@@ -2300,6 +2957,8 @@
   "python": ">=3.4",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/requests/requests-oauthlib",
   "home": "https://github.com/requests/requests-oauthlib",
   "downloads": 275636427,
@@ -2317,6 +2976,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/MagicStack/httptools",
   "home": "https://github.com/MagicStack/httptools",
   "downloads": 275365180,
@@ -2335,6 +2996,10 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "toml"
   ],
   "repo": "https://github.com/hukkin/tomli/blob/master/CHANGELOG.md",
   "home": "https://github.com/hukkin/tomli",
@@ -2355,6 +3020,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pytest-dev/pytest-asyncio/issues",
   "home": "https://github.com/pytest-dev/pytest-asyncio",
   "downloads": 270681184,
@@ -2374,6 +3043,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/tkem/cachetools/blob/master/CHANGELOG.rst",
   "home": "https://github.com/tkem/cachetools/",
   "downloads": 269479664,
@@ -2391,6 +3062,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
   "downloads": 268907865,
@@ -2412,6 +3085,11 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Documentation :: Sphinx",
+   "Text Processing :: Markup"
+  ],
+  "keywords": [],
   "repo": "https://github.com/rr-/docstring_parser/blob/master/CHANGELOG.md",
   "home": "",
   "downloads": 268509129,
@@ -2432,6 +3110,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pfmoore/editables",
   "home": "",
   "downloads": 267276345,
@@ -2451,6 +3131,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/oauthlib/oauthlib/blob/master/CHANGELOG.rst",
   "home": "https://github.com/oauthlib/oauthlib",
   "downloads": 265289924,
@@ -2471,6 +3153,13 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Internet :: WWW/HTTP :: WSGI",
+   "Internet :: WWW/HTTP :: WSGI :: Application",
+   "Internet :: WWW/HTTP :: WSGI :: Middleware"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pallets/werkzeug/",
   "home": "",
   "downloads": 261531809,
@@ -2489,6 +3178,17 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "chunk",
+   "chunked",
+   "filter",
+   "iteration",
+   "iterator",
+   "itertools",
+   "peek",
+   "peekable"
   ],
   "repo": "https://github.com/more-itertools/more-itertools",
   "home": "https://github.com/more-itertools/more-itertools",
@@ -2510,6 +3210,14 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [
+   "environments",
+   "isolated",
+   "virtual"
+  ],
   "repo": "https://github.com/sponsors/gaborbernat",
   "home": "https://github.com/pypa/virtualenv",
   "downloads": 254047981,
@@ -2529,6 +3237,14 @@
   "topics": [
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup :: XML"
+  ],
+  "keywords": [
+   "bomb",
+   "dos",
+   "xml"
+  ],
   "repo": "https://github.com/tiran/defusedxml",
   "home": "https://github.com/tiran/defusedxml",
   "downloads": 249444390,
@@ -2546,6 +3262,8 @@
   "python": "Not specified",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "",
   "home": "http://www.grantjenks.com/docs/sortedcontainers/",
   "downloads": 248428998,
@@ -2563,6 +3281,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
   "downloads": 247189908,
@@ -2582,6 +3302,21 @@
   "topics": [
    "Scientific/Engineering",
    "Software Development"
+  ],
+  "tags": [
+   "Scientific/Engineering :: Bio-Informatics",
+   "Scientific/Engineering :: Information Analysis",
+   "Scientific/Engineering :: Mathematics",
+   "Scientific/Engineering :: Physics"
+  ],
+  "keywords": [
+   "discrete",
+   "graph",
+   "math",
+   "mathematics",
+   "network",
+   "networks",
+   "theory"
   ],
   "repo": "https://github.com/networkx/networkx/issues",
   "home": "https://networkx.org/",
@@ -2603,6 +3338,17 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [
+   "cover",
+   "coverage",
+   "distributed",
+   "parallel",
+   "py.test",
+   "pytest"
+  ],
   "repo": "https://github.com/pytest-dev/pytest-cov/issues",
   "home": "",
   "downloads": 242346370,
@@ -2620,6 +3366,12 @@
   "python": ">=3.10",
   "deps": 11,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "database",
+   "key-value-store",
+   "redis"
+  ],
   "repo": "https://github.com/redis/redis-py/releases",
   "home": "https://github.com/redis/redis-py",
   "downloads": 237422918,
@@ -2639,6 +3391,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pypa/distlib",
   "home": "https://github.com/pypa/distlib",
   "downloads": 237233490,
@@ -2656,6 +3410,8 @@
   "python": ">=3.7",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/agronholm/exceptiongroup/blob/main/CHANGES.rst",
   "home": "",
   "downloads": 235001851,
@@ -2675,6 +3431,10 @@
   "topics": [
    "Scientific/Engineering"
   ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [],
   "repo": "https://github.com/huggingface/xet-core",
   "home": "https://github.com/huggingface/xet-core",
   "downloads": 234446922,
@@ -2695,6 +3455,12 @@
    "Multimedia",
    "Text Processing"
   ],
+  "tags": [
+   "Multimedia :: Graphics",
+   "Multimedia :: Graphics :: Graphics Conversion",
+   "Text Processing :: Fonts"
+  ],
+  "keywords": [],
   "repo": "http://github.com/fonttools/fonttools",
   "home": "http://github.com/fonttools/fonttools",
   "downloads": 234391052,
@@ -2713,6 +3479,16 @@
   "deps": 0,
   "topics": [
    "File Formats"
+  ],
+  "tags": [
+   "File Formats"
+  ],
+  "keywords": [
+   "binary",
+   "messagepack",
+   "msgpack",
+   "serialization",
+   "serializer"
   ],
   "repo": "https://github.com/msgpack/msgpack-python/blob/main/CHANGELOG.md",
   "home": "https://msgpack.org/",
@@ -2734,6 +3510,11 @@
    "Database",
    "Software Development"
   ],
+  "tags": [
+   "Database",
+   "Database :: Front-Ends"
+  ],
+  "keywords": [],
   "repo": "https://github.com/psycopg/psycopg2",
   "home": "https://psycopg.org/",
   "downloads": 232463285,
@@ -2751,6 +3532,8 @@
   "python": ">=3.8",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pallets/itsdangerous/",
   "home": "",
   "downloads": 227498826,
@@ -2768,6 +3551,8 @@
   "python": ">=3.10",
   "deps": 12,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
   "downloads": 220896653,
@@ -2787,6 +3572,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sqlalchemy/mako",
   "home": "https://www.makotemplates.org/",
   "downloads": 220871170,
@@ -2806,6 +3595,10 @@
   "topics": [
    "Database"
   ],
+  "tags": [
+   "Database :: Front-Ends"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sqlalchemy/alembic/issues/",
   "home": "https://alembic.sqlalchemy.org",
   "downloads": 218830049,
@@ -2823,6 +3616,8 @@
   "python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/requests/toolbelt/blob/master/HISTORY.rst",
   "home": "https://toolbelt.readthedocs.io/",
   "downloads": 218747095,
@@ -2840,6 +3635,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/ijl/orjson/blob/master/CHANGELOG.md",
   "home": "",
   "downloads": 218459023,
@@ -2859,6 +3656,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/prompt-toolkit/python-prompt-toolkit",
   "home": "https://github.com/prompt-toolkit/python-prompt-toolkit",
   "downloads": 218302051,
@@ -2876,6 +3675,8 @@
   "python": ">=3.9",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/openai/tiktoken/blob/main/CHANGELOG.md",
   "home": "",
   "downloads": 212211718,
@@ -2896,6 +3697,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/scikit-learn/scikit-learn",
   "home": "",
   "downloads": 210511784,
@@ -2914,6 +3719,17 @@
   "deps": 12,
   "topics": [
    "Scientific/Engineering"
+  ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [
+   "bpe",
+   "deep",
+   "learning",
+   "nlp",
+   "tokenizer",
+   "transformer"
   ],
   "repo": "https://github.com/huggingface/tokenizers",
   "home": "https://github.com/huggingface/tokenizers",
@@ -2934,6 +3750,10 @@
   "topics": [
    "Security"
   ],
+  "tags": [
+   "Security :: Cryptography"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sybrenstuvel/python-rsa",
   "home": "https://stuvel.eu/rsa",
   "downloads": 204478654,
@@ -2955,6 +3775,11 @@
    "Software Development",
    "System"
   ],
+  "tags": [
+   "Scientific/Engineering",
+   "System :: Distributed Computing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/cloudpipe/cloudpickle",
   "home": "https://github.com/cloudpipe/cloudpickle",
   "downloads": 203292046,
@@ -2974,6 +3799,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/joblib/threadpoolctl",
   "home": "",
   "downloads": 200531158,
@@ -2993,6 +3820,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python/mypy/blob/master/CHANGELOG.md",
   "home": "https://www.mypy-lang.org/",
   "downloads": 198973832,
@@ -3013,6 +3842,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/gweis/isodate/",
   "home": "https://github.com/gweis/isodate/",
   "downloads": 196267207,
@@ -3033,6 +3864,12 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Internet :: WWW/HTTP :: WSGI",
+   "Internet :: WWW/HTTP :: WSGI :: Application"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pallets/flask/",
   "home": "",
   "downloads": 195141047,
@@ -3051,6 +3888,12 @@
   "deps": 2,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "address",
+   "email",
+   "validator"
   ],
   "repo": "https://github.com/JoshData/python-email-validator",
   "home": "https://github.com/JoshData/python-email-validator",
@@ -3071,6 +3914,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/anthropics/anthropic-sdk-python",
   "home": "https://github.com/anthropics/anthropic-sdk-python",
   "downloads": 193758508,
@@ -3090,6 +3935,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/ekalinin/nodeenv",
   "home": "https://github.com/ekalinin/nodeenv",
   "downloads": 192235504,
@@ -3111,6 +3958,11 @@
    "Software Development",
    "System"
   ],
+  "tags": [
+   "Security :: Cryptography",
+   "System :: Networking"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pyca/pyopenssl",
   "home": "https://pyopenssl.org/",
   "downloads": 191319793,
@@ -3131,6 +3983,11 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [
+   "discovery",
+   "interpreter"
+  ],
   "repo": "https://github.com/tox-dev/python-discovery/blob/main/docs/changelog.rst",
   "home": "https://github.com/tox-dev/python-discovery",
   "downloads": 188851405,
@@ -3148,6 +4005,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/florimondmanca/httpx-sse",
   "home": "https://github.com/florimondmanca/httpx-sse",
   "downloads": 188535756,
@@ -3169,6 +4028,10 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/joblib/joblib",
   "home": "https://joblib.readthedocs.io",
   "downloads": 188397184,
@@ -3189,6 +4052,11 @@
    "Database",
    "Software Development"
   ],
+  "tags": [
+   "Database",
+   "Database :: Front-Ends"
+  ],
+  "keywords": [],
   "repo": "https://github.com/psycopg/psycopg",
   "home": "https://psycopg.org/",
   "downloads": 187854205,
@@ -3206,6 +4074,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pallets-eco/blinker/",
   "home": "",
   "downloads": 187721278,
@@ -3225,6 +4095,10 @@
   "topics": [
    "Scientific/Engineering"
   ],
+  "tags": [
+   "Scientific/Engineering :: Visualization"
+  ],
+  "keywords": [],
   "repo": "https://github.com/matplotlib/matplotlib/issues",
   "home": "https://matplotlib.org",
   "downloads": 186363242,
@@ -3242,6 +4116,12 @@
   "python": ">=3.9",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "compression",
+   "zstandard",
+   "zstd"
+  ],
   "repo": "https://github.com/indygreg/python-zstandard",
   "home": "https://github.com/indygreg/python-zstandard",
   "downloads": 185684888,
@@ -3259,6 +4139,10 @@
   "python": ">=3.10",
   "deps": 8,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "timezone"
+  ],
   "repo": "https://github.com/regebro/tzlocal/blob/master/CHANGES.txt",
   "home": "",
   "downloads": 185529714,
@@ -3279,6 +4163,11 @@
    "Software Development",
    "System"
   ],
+  "tags": [
+   "System :: Distributed Computing",
+   "System :: Networking"
+  ],
+  "keywords": [],
   "repo": "",
   "home": "https://execnet.readthedocs.io/en/latest/",
   "downloads": 185140878,
@@ -3299,6 +4188,11 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Software Development :: Quality Assurance",
+   "Software Development :: Testing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pytest-dev/pytest-xdist",
   "home": "https://github.com/pytest-dev/pytest-xdist",
   "downloads": 185028314,
@@ -3316,6 +4210,8 @@
   "python": ">=3.10",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python-hyper/h2/issues",
   "home": "https://github.com/python-hyper/h2/",
   "downloads": 184976837,
@@ -3335,6 +4231,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-core",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-core",
   "downloads": 184949544,
@@ -3352,6 +4250,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python-hyper/hpack/issues",
   "home": "https://github.com/python-hyper/hpack/",
   "downloads": 184671416,
@@ -3371,6 +4271,11 @@
   "topics": [
    "Internet",
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "client",
+   "websockets"
   ],
   "repo": "https://github.com/websocket-client/websocket-client/releases",
   "home": "https://github.com/websocket-client/websocket-client",
@@ -3392,6 +4297,11 @@
    "Database",
    "Software Development"
   ],
+  "tags": [
+   "Database",
+   "Database :: Front-Ends"
+  ],
+  "keywords": [],
   "repo": "https://github.com/psycopg/psycopg",
   "home": "https://psycopg.org/",
   "downloads": 183898067,
@@ -3409,6 +4319,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/python-hyper/hyperframe/issues",
   "home": "https://github.com/python-hyper/hyperframe/",
   "downloads": 182809313,
@@ -3428,6 +4340,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/astanin/python-tabulate",
   "home": "https://github.com/astanin/python-tabulate",
   "downloads": 182103979,
@@ -3445,6 +4359,8 @@
   "python": ">=3.8",
   "deps": 8,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pyca/pynacl/issues",
   "home": "https://github.com/pyca/pynacl/",
   "downloads": 180233524,
@@ -3462,6 +4378,11 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "azure",
+   "sdk"
+  ],
   "repo": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/core/azure-core",
   "home": "",
   "downloads": 179562555,
@@ -3479,6 +4400,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/nucleic/kiwi/blob/main/releasenotes.rst",
   "home": "",
   "downloads": 177676078,
@@ -3498,6 +4421,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/py-pdf/pypdf/issues",
   "home": "",
   "downloads": 176348328,
@@ -3518,6 +4443,19 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup"
+  ],
+  "keywords": [
+   "1.2",
+   "config",
+   "order",
+   "parser",
+   "preserve",
+   "quotes",
+   "round-trip",
+   "yaml"
+  ],
   "repo": "",
   "home": "",
   "downloads": 175531520,
@@ -3535,6 +4473,8 @@
   "python": ">=3.8",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pyca/bcrypt/",
   "home": "",
   "downloads": 172781905,
@@ -3552,6 +4492,8 @@
   "python": ">=3.10",
   "deps": 4,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/opentelemetry-instrumentation",
   "home": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/opentelemetry-instrumentation",
   "downloads": 172192752,
@@ -3571,6 +4513,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage",
   "downloads": 171954945,
@@ -3590,6 +4534,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-bigquery",
   "home": "",
   "downloads": 170471471,
@@ -3610,6 +4556,16 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Linguistic"
+  ],
+  "keywords": [
+   "chardet",
+   "charset",
+   "detection",
+   "encoding",
+   "unicode"
+  ],
   "repo": "https://github.com/chardet/chardet/issues",
   "home": "https://github.com/chardet/chardet",
   "downloads": 170288347,
@@ -3627,6 +4583,8 @@
   "python": ">=3.9",
   "deps": 6,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/AzureAD/microsoft-authentication-library-for-python/releases",
   "home": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
   "downloads": 170049622,
@@ -3644,6 +4602,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/python-crc32c",
   "home": "https://github.com/googleapis/python-crc32c",
   "downloads": 168590029,
@@ -3663,6 +4623,12 @@
   "topics": [
    "Scientific/Engineering"
   ],
+  "tags": [
+   "Scientific/Engineering :: Information Analysis",
+   "Scientific/Engineering :: Mathematics",
+   "Scientific/Engineering :: Visualization"
+  ],
+  "keywords": [],
   "repo": "https://github.com/contourpy/contourpy",
   "home": "https://github.com/contourpy/contourpy",
   "downloads": 166328131,
@@ -3680,6 +4646,11 @@
   "python": ">=3.8",
   "deps": 7,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "cycle",
+   "kwargs"
+  ],
   "repo": "https://github.com/matplotlib/cycler",
   "home": "",
   "downloads": 165609935,
@@ -3700,6 +4671,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [],
   "repo": "https://github.com/langchain-ai/langchain/releases?q=tag%3A%22langchain%3D%3D1%22",
   "home": "https://docs.langchain.com/",
   "downloads": 165175615,
@@ -3718,6 +4693,15 @@
   "deps": 3,
   "topics": [
    "System"
+  ],
+  "tags": [
+   "System :: Monitoring"
+  ],
+  "keywords": [
+   "client",
+   "instrumentation",
+   "monitoring",
+   "prometheus"
   ],
   "repo": "https://github.com/prometheus/client_python",
   "home": "https://github.com/prometheus/client_python",
@@ -3739,6 +4723,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering"
+  ],
+  "keywords": [],
   "repo": "https://github.com/uqfoundation/dill/issues",
   "home": "https://github.com/uqfoundation/dill",
   "downloads": 163296757,
@@ -3758,6 +4746,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/mypyc/librt",
   "home": "https://github.com/mypyc/librt",
   "downloads": 162512903,
@@ -3777,6 +4767,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-resumable-media",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-resumable-media",
   "downloads": 161796405,
@@ -3797,6 +4789,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/python-genai",
   "home": "https://github.com/googleapis/python-genai",
   "downloads": 161323461,
@@ -3814,6 +4808,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/ifduyue/python-xxhash",
   "home": "https://github.com/ifduyue/python-xxhash",
   "downloads": 160865402,
@@ -3831,6 +4827,8 @@
   "python": ">=3.9",
   "deps": 24,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jaraco/keyring",
   "home": "",
   "downloads": 160595437,
@@ -3848,6 +4846,8 @@
   "python": ">=3.8",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jmcnamara/XlsxWriter/blob/main/Changes",
   "home": "https://github.com/jmcnamara/XlsxWriter",
   "downloads": 160022282,
@@ -3868,6 +4868,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [],
   "repo": "https://github.com/langchain-ai/langchain/releases?q=%22langchain-core%3D%3D1%22",
   "home": "https://docs.langchain.com/",
   "downloads": 159702109,
@@ -3888,6 +4892,10 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [
+   "decorators"
+  ],
   "repo": "",
   "home": "",
   "downloads": 159071681,
@@ -3905,6 +4913,8 @@
   "python": ">=3.10",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pre-commit/identify",
   "home": "https://github.com/pre-commit/identify",
   "downloads": 158960400,
@@ -3922,6 +4932,8 @@
   "python": ">=3.10",
   "deps": 3,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/grpc/grpc/issues",
   "home": "https://grpc.io",
   "downloads": 157724063,
@@ -3939,6 +4951,8 @@
   "python": ">=3.11",
   "deps": 5,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pre-commit/pre-commit",
   "home": "https://github.com/pre-commit/pre-commit",
   "downloads": 157301242,
@@ -3956,6 +4970,8 @@
   "python": ">=3.8",
   "deps": 13,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jaraco/jaraco.classes",
   "home": "https://github.com/jaraco/jaraco.classes",
   "downloads": 156445476,
@@ -3973,6 +4989,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/asottile/cfgv",
   "home": "https://github.com/asottile/cfgv",
   "downloads": 156033859,
@@ -3990,6 +5008,8 @@
   "python": ">=3.10",
   "deps": 14,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jaraco/jaraco.functools",
   "home": "",
   "downloads": 155779829,
@@ -4008,6 +5028,14 @@
   "deps": 0,
   "topics": [
    "Software Development"
+  ],
+  "tags": [
+   "Software Development :: Quality Assurance",
+   "Software Development :: Testing"
+  ],
+  "keywords": [
+   "packaging",
+   "requirements"
   ],
   "repo": "https://github.com/astral-sh/uv/blob/main/CHANGELOG.md",
   "home": "https://pypi.org/project/uv/",
@@ -4029,6 +5057,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/stefankoegl/python-json-pointer",
   "home": "https://github.com/stefankoegl/python-json-pointer",
   "downloads": 155164497,
@@ -4048,6 +5078,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/getsentry/sentry-python/blob/master/CHANGELOG.md",
   "home": "https://github.com/getsentry/sentry-python",
   "downloads": 154800633,
@@ -4066,6 +5098,15 @@
   "deps": 3,
   "topics": [
    "Scientific/Engineering"
+  ],
+  "tags": [
+   "Scientific/Engineering",
+   "Scientific/Engineering :: Mathematics",
+   "Scientific/Engineering :: Physics"
+  ],
+  "keywords": [
+   "cas",
+   "math"
   ],
   "repo": "https://github.com/sympy/sympy",
   "home": "https://sympy.org",
@@ -4086,6 +5127,10 @@
   "topics": [
    "Desktop Environment"
   ],
+  "tags": [
+   "Desktop Environment"
+  ],
+  "keywords": [],
   "repo": "https://gitlab.com/takluyver/jeepney",
   "home": "",
   "downloads": 153220282,
@@ -4103,6 +5148,10 @@
   "python": ">=3.8",
   "deps": 14,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "git"
+  ],
   "repo": "https://github.com/gitpython-developers/GitPython/blob/main/doc/source/changes.rst",
   "home": "",
   "downloads": 152016789,
@@ -4123,6 +5172,10 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering :: Mathematics"
+  ],
+  "keywords": [],
   "repo": "https://github.com/mpmath/mpmath/issues",
   "home": "https://mpmath.org/",
   "downloads": 151371771,
@@ -4143,6 +5196,10 @@
    "Security",
    "Software Development"
   ],
+  "tags": [
+   "Security"
+  ],
+  "keywords": [],
   "repo": "https://github.com/mitya57/secretstorage",
   "home": "https://github.com/mitya57/secretstorage",
   "downloads": 151339462,
@@ -4160,6 +5217,8 @@
   "python": ">=3.10",
   "deps": 15,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jaraco/jaraco.context",
   "home": "",
   "downloads": 151058078,
@@ -4181,6 +5240,14 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "backoff",
+   "decorators",
+   "retry"
+  ],
   "repo": "https://github.com/litl/backoff",
   "home": "https://github.com/litl/backoff",
   "downloads": 149912310,
@@ -4200,6 +5267,10 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/django/asgiref/blob/master/CHANGELOG.txt",
   "home": "https://github.com/django/asgiref/",
   "downloads": 149176850,
@@ -4223,6 +5294,20 @@
    "Text Processing",
    "Utilities"
   ],
+  "tags": [
+   "Documentation",
+   "Software Development :: Documentation",
+   "Text Editors :: Documentation",
+   "Text Processing",
+   "Text Processing :: General",
+   "Text Processing :: Markup",
+   "Text Processing :: Markup :: HTML",
+   "Text Processing :: Markup :: LaTeX",
+   "Text Processing :: Markup :: Markdown",
+   "Text Processing :: Markup :: XML",
+   "Text Processing :: Markup :: reStructuredText"
+  ],
+  "keywords": [],
   "repo": "",
   "home": "https://docutils.sourceforge.io",
   "downloads": 148830014,
@@ -4241,6 +5326,15 @@
   "deps": 1,
   "topics": [
    "Software Development"
+  ],
+  "tags": [],
+  "keywords": [
+   "decorator",
+   "deprecate",
+   "deprecated",
+   "deprecation",
+   "warn",
+   "warning"
   ],
   "repo": "https://github.com/laurent-laporte-pro/deprecated/issues",
   "home": "https://github.com/laurent-laporte-pro/deprecated",
@@ -4262,6 +5356,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/docker/docker-py",
   "home": "https://github.com/docker/docker-py",
   "downloads": 147284368,
@@ -4281,6 +5377,18 @@
   "topics": [
    "Security"
   ],
+  "tags": [
+   "Security :: Cryptography"
+  ],
+  "keywords": [
+   "asn1",
+   "certificate",
+   "crypto",
+   "dsa",
+   "pki",
+   "rsa",
+   "x509"
+  ],
   "repo": "https://github.com/wbond/asn1crypto",
   "home": "https://github.com/wbond/asn1crypto",
   "downloads": 145910030,
@@ -4298,6 +5406,8 @@
   "python": ">=2.6, !=3.0.*, !=3.1.*, !=3.2.*",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/uiri/toml",
   "home": "https://github.com/uiri/toml",
   "downloads": 145068664,
@@ -4315,6 +5425,13 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "6570",
+   "rfc",
+   "template",
+   "uri"
+  ],
   "repo": "https://github.com/python-hyper/uritemplate",
   "home": "https://uritemplate.readthedocs.org",
   "downloads": 144693864,
@@ -4332,6 +5449,8 @@
   "python": ">=3.7",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/gitpython-developers/smmap",
   "home": "https://github.com/gitpython-developers/smmap",
   "downloads": 144368642,
@@ -4350,6 +5469,13 @@
   "deps": 4,
   "topics": [
    "Internet"
+  ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "encoding",
+   "web"
   ],
   "repo": "https://github.com/CourtBouillon/webencodings/releases",
   "home": "https://github.com/CourtBouillon/webencodings",
@@ -4370,6 +5496,10 @@
   "topics": [
    "Terminals"
   ],
+  "tags": [
+   "Terminals"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pexpect/ptyprocess",
   "home": "https://github.com/pexpect/ptyprocess",
   "downloads": 141062368,
@@ -4387,6 +5517,17 @@
   "python": ">=3.10",
   "deps": 15,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "cudf",
+   "dask",
+   "dataframes",
+   "interoperability",
+   "modin",
+   "pandas",
+   "polars",
+   "pyarrow"
+  ],
   "repo": "https://github.com/narwhals-dev/narwhals/issues",
   "home": "https://github.com/narwhals-dev/narwhals",
   "downloads": 139399049,
@@ -4404,6 +5545,13 @@
   "python": ">=3.10",
   "deps": 10,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "interactive",
+   "interpreter",
+   "shell",
+   "web"
+  ],
   "repo": "https://github.com/ipython/traitlets",
   "home": "https://github.com/ipython/traitlets",
   "downloads": 139107534,
@@ -4421,6 +5569,8 @@
   "python": ">=3.7",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/gitpython-developers/gitdb",
   "home": "https://github.com/gitpython-developers/gitdb",
   "downloads": 138397566,
@@ -4440,6 +5590,14 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "api",
+   "client",
+   "google"
+  ],
   "repo": "https://github.com/googleapis/google-api-python-client/",
   "home": "https://github.com/googleapis/google-api-python-client/",
   "downloads": 138383232,
@@ -4457,6 +5615,11 @@
   "python": ">=3.10",
   "deps": 5,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "azure",
+   "sdk"
+  ],
   "repo": "https://github.com/Azure/azure-sdk-for-python",
   "home": "",
   "downloads": 136835033,
@@ -4476,6 +5639,13 @@
   "topics": [
    "Database"
   ],
+  "tags": [
+   "Database :: Front-Ends"
+  ],
+  "keywords": [
+   "database",
+   "postgres"
+  ],
   "repo": "https://github.com/MagicStack/asyncpg",
   "home": "",
   "downloads": 136646405,
@@ -4493,6 +5663,8 @@
   "python": ">=3.9",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/Tinche/aiofiles/issues",
   "home": "",
   "downloads": 136444831,
@@ -4511,6 +5683,15 @@
   "deps": 2,
   "topics": [
    "Internet"
+  ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "auth",
+   "client",
+   "google",
+   "oauth"
   ],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2",
@@ -4533,6 +5714,16 @@
    "System",
    "Terminals"
   ],
+  "tags": [
+   "Software Development :: Quality Assurance",
+   "Software Development :: Testing",
+   "System :: Archiving :: Packaging",
+   "System :: Installation/Setup",
+   "System :: Shells",
+   "System :: Software Distribution",
+   "Terminals"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pexpect/pexpect/issues",
   "home": "https://pexpect.readthedocs.io/",
   "downloads": 134317645,
@@ -4550,6 +5741,8 @@
   "python": ">=3.11",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/rapidfuzz/RapidFuzz/blob/main/CHANGELOG.rst",
   "home": "https://github.com/rapidfuzz/RapidFuzz",
   "downloads": 133787978,
@@ -4570,6 +5763,10 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [],
   "repo": "https://github.com/httplib2/httplib2",
   "home": "https://github.com/httplib2/httplib2",
   "downloads": 133117816,
@@ -4587,6 +5784,8 @@
   "python": ">=3.10",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http",
   "home": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http",
   "downloads": 132575301,
@@ -4604,6 +5803,8 @@
   "python": ">=3.9",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/AzureAD/microsoft-authentication-extensions-for-python/releases",
   "home": "",
   "downloads": 129128187,
@@ -4624,6 +5825,13 @@
    "Internet",
    "Security"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Internet :: WWW/HTTP :: WSGI :: Application",
+   "Security",
+   "Security :: Cryptography"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sponsors/lepture",
   "home": "",
   "downloads": 127396955,
@@ -4641,6 +5849,8 @@
   "python": ">=3.9",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/infopulse/pytest-common-test-report-json",
   "home": "https://github.com/infopulse/pytest-common-test-report-json",
   "downloads": 126303333,
@@ -4660,6 +5870,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/horejsek/python-fastjsonschema",
   "home": "https://github.com/horejsek/python-fastjsonschema",
   "downloads": 126252437,
@@ -4680,6 +5892,8 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/stefankoegl/python-json-patch",
   "home": "https://github.com/stefankoegl/python-json-patch",
   "downloads": 126113477,
@@ -4698,6 +5912,18 @@
   "deps": 14,
   "topics": [
    "Software Development"
+  ],
+  "tags": [
+   "Software Development :: Quality Assurance"
+  ],
+  "keywords": [
+   "automation",
+   "autopep8",
+   "formatter",
+   "gofmt",
+   "pyfmt",
+   "rustfmt",
+   "yapf"
   ],
   "repo": "https://github.com/psf/black/blob/main/CHANGES.md",
   "home": "",
@@ -4719,6 +5945,11 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP :: Browsers",
+   "Software Development :: Testing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/microsoft/playwright-python/releases",
   "home": "",
   "downloads": 124971918,
@@ -4736,6 +5967,8 @@
   "python": ">=3.8",
   "deps": 8,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/alexmojaki/executing",
   "home": "https://github.com/alexmojaki/executing",
   "downloads": 124911448,
@@ -4755,6 +5988,16 @@
   "topics": [
    "Internet"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "auth",
+   "client",
+   "google",
+   "oauth",
+   "oauthlib"
+  ],
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-oauthlib",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-oauthlib",
   "downloads": 124847786,
@@ -4772,6 +6015,8 @@
   "python": ">=3.10",
   "deps": 11,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
   "downloads": 124377008,
@@ -4792,6 +6037,10 @@
    "Database",
    "Software Development"
   ],
+  "tags": [
+   "Database"
+  ],
+  "keywords": [],
   "repo": "https://github.com/andialbrecht/sqlparse",
   "home": "",
   "downloads": 123563400,
@@ -4812,6 +6061,15 @@
    "Office/Business",
    "Software Development"
   ],
+  "tags": [
+   "Office/Business :: Office Suites"
+  ],
+  "keywords": [
+   "docx",
+   "office",
+   "openxml",
+   "word"
+  ],
   "repo": "https://github.com/python-openxml/python-docx/blob/master/HISTORY.rst",
   "home": "https://github.com/python-openxml/python-docx",
   "downloads": 122593427,
@@ -4831,6 +6089,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Internationalization"
+  ],
+  "keywords": [],
   "repo": "https://github.com/python-babel/babel",
   "home": "https://babel.pocoo.org/",
   "downloads": 120670678,
@@ -4849,6 +6111,17 @@
   "deps": 1,
   "topics": [
    "Other/Nonlisted Topic"
+  ],
+  "tags": [
+   "Other/Nonlisted Topic"
+  ],
+  "keywords": [
+   "emitter",
+   "event_emitter",
+   "eventemitter",
+   "events",
+   "node",
+   "node.js"
   ],
   "repo": "https://github.com/jfhbrook/pyee",
   "home": "",
@@ -4869,6 +6142,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/aio-libs/async-timeout/actions",
   "home": "https://github.com/aio-libs/async-timeout",
   "downloads": 118684437,
@@ -4890,6 +6165,10 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Multimedia :: Graphics"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pymupdf/pymupdf",
   "home": "",
   "downloads": 118343922,
@@ -4911,6 +6190,13 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Internet :: WWW/HTTP",
+   "Internet :: WWW/HTTP :: Dynamic Content",
+   "Internet :: WWW/HTTP :: WSGI",
+   "Internet :: WWW/HTTP :: WSGI :: Server"
+  ],
+  "keywords": [],
   "repo": "https://github.com/benoitc/gunicorn/issues",
   "home": "https://gunicorn.org",
   "downloads": 117671494,
@@ -4928,6 +6214,8 @@
   "python": ">=3.11",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/tornadoweb/tornado",
   "home": "http://www.tornadoweb.org/",
   "downloads": 117669398,
@@ -4950,6 +6238,21 @@
    "Software Development",
    "Text Processing"
   ],
+  "tags": [
+   "Communications :: Email :: Filters",
+   "Internet :: WWW/HTTP :: Dynamic Content :: CGI Tools/Libraries",
+   "Internet :: WWW/HTTP :: Site Management",
+   "Software Development :: Documentation",
+   "Text Processing :: Filters",
+   "Text Processing :: Markup :: HTML",
+   "Text Processing :: Markup :: Markdown"
+  ],
+  "keywords": [
+   "markdown",
+   "markdown-parser",
+   "markdown-to-html",
+   "python-markdown"
+  ],
   "repo": "https://github.com/Python-Markdown/markdown/issues",
   "home": "https://Python-Markdown.github.io/",
   "downloads": 117191491,
@@ -4969,6 +6272,8 @@
   "topics": [
    "Internet"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/google-cloud-python",
   "home": "",
   "downloads": 117051056,
@@ -4988,6 +6293,11 @@
   "topics": [
    "Security"
   ],
+  "tags": [
+   "Security",
+   "Security :: Cryptography"
+  ],
+  "keywords": [],
   "repo": "https://github.com/sponsors/authlib",
   "home": "",
   "downloads": 116945027,
@@ -5008,6 +6318,16 @@
    "Office/Business",
    "Software Development"
   ],
+  "tags": [
+   "Office/Business :: Office Suites"
+  ],
+  "keywords": [
+   "office",
+   "openxml",
+   "powerpoint",
+   "ppt",
+   "pptx"
+  ],
   "repo": "https://github.com/scanny/python-pptx/blob/master/HISTORY.rst",
   "home": "https://github.com/scanny/python-pptx",
   "downloads": 116401230,
@@ -5027,6 +6347,25 @@
   "topics": [
    "Scientific/Engineering"
   ],
+  "tags": [
+   "Scientific/Engineering :: Artificial Intelligence"
+  ],
+  "keywords": [
+   "deep-learning",
+   "gemma",
+   "inference",
+   "llama",
+   "llm",
+   "machine-learning",
+   "model-hub",
+   "nlp",
+   "pretrained-models",
+   "pytorch",
+   "qwen",
+   "training",
+   "transformer",
+   "vlm"
+  ],
   "repo": "https://github.com/huggingface/transformers",
   "home": "https://github.com/huggingface/transformers",
   "downloads": 115116893,
@@ -5045,6 +6384,13 @@
   "deps": 5,
   "topics": [
    "Text Processing"
+  ],
+  "tags": [
+   "Text Processing"
+  ],
+  "keywords": [
+   "css",
+   "parser"
   ],
   "repo": "https://github.com/Kozea/tinycss2/releases",
   "home": "https://www.courtbouillon.org/tinycss2",
@@ -5066,6 +6412,10 @@
    "Internet",
    "Security"
   ],
+  "tags": [
+   "Security :: Cryptography"
+  ],
+  "keywords": [],
   "repo": "https://github.com/paramiko/paramiko/issues",
   "home": "",
   "downloads": 114432649,
@@ -5087,6 +6437,14 @@
    "Text Editors",
    "Utilities"
   ],
+  "tags": [
+   "Text Editors :: Integrated Development Environments (IDE)"
+  ],
+  "keywords": [
+   "completion",
+   "refactoring",
+   "vim"
+  ],
   "repo": "https://github.com/davidhalter/jedi",
   "home": "https://github.com/davidhalter/jedi",
   "downloads": 113854190,
@@ -5105,6 +6463,15 @@
   "deps": 1,
   "topics": [
    "System"
+  ],
+  "tags": [
+   "System :: Logging"
+  ],
+  "keywords": [
+   "log",
+   "logging",
+   "structure",
+   "structured"
   ],
   "repo": "https://github.com/hynek/structlog/blob/main/CHANGELOG.md",
   "home": "",
@@ -5127,6 +6494,13 @@
    "Text Editors",
    "Utilities"
   ],
+  "tags": [
+   "Text Editors :: Integrated Development Environments (IDE)"
+  ],
+  "keywords": [
+   "parser",
+   "parsing"
+  ],
   "repo": "https://github.com/davidhalter/parso",
   "home": "https://github.com/davidhalter/parso",
   "downloads": 112988535,
@@ -5147,6 +6521,16 @@
    "Database",
    "Software Development"
   ],
+  "tags": [
+   "Database"
+  ],
+  "keywords": [
+   "api",
+   "database",
+   "dbapi",
+   "pep249",
+   "snowflake"
+  ],
   "repo": "https://github.com/snowflakedb/drivers/issues",
   "home": "https://github.com/snowflakedb/drivers",
   "downloads": 112950671,
@@ -5166,6 +6550,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/google/flatbuffers",
   "home": "https://google.github.io/flatbuffers/",
   "downloads": 112468521,
@@ -5184,6 +6570,15 @@
   "deps": 39,
   "topics": [
    "System"
+  ],
+  "tags": [
+   "System :: Shells"
+  ],
+  "keywords": [
+   "embedding",
+   "interactive",
+   "interpreter",
+   "shell"
   ],
   "repo": "https://github.com/ipython/ipython",
   "home": "https://ipython.org",
@@ -5204,6 +6599,19 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Code Generators",
+   "Software Development :: Compilers",
+   "Software Development :: Interpreters",
+   "Software Development :: Pre-processors"
+  ],
+  "keywords": [
+   "ast",
+   "code",
+   "parse",
+   "refactor",
+   "tokenize"
+  ],
   "repo": "https://github.com/gristlabs/asttokens",
   "home": "https://github.com/gristlabs/asttokens",
   "downloads": 111262160,
@@ -5223,6 +6631,10 @@
   "topics": [
    "Text Processing"
   ],
+  "tags": [
+   "Text Processing :: Markup :: XML"
+  ],
+  "keywords": [],
   "repo": "https://github.com/martinblech/xmltodict",
   "home": "https://github.com/martinblech/xmltodict",
   "downloads": 110655930,
@@ -5240,6 +6652,12 @@
   "python": ">=3.10",
   "deps": 2,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "automation",
+   "llm",
+   "mcp"
+  ],
   "repo": "https://github.com/modelcontextprotocol/python-sdk/issues",
   "home": "https://modelcontextprotocol.io",
   "downloads": 110574490,
@@ -5259,6 +6677,10 @@
   "topics": [
    "System"
   ],
+  "tags": [
+   "System :: Networking"
+  ],
+  "keywords": [],
   "repo": "https://github.com/zeromq/pyzmq",
   "home": "https://pyzmq.readthedocs.org",
   "downloads": 109881085,
@@ -5278,6 +6700,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Testing"
+  ],
+  "keywords": [],
   "repo": "https://github.com/pytest-dev/pytest-timeout",
   "home": "https://github.com/pytest-dev/pytest-timeout",
   "downloads": 109815343,
@@ -5300,6 +6726,12 @@
    "Text Processing",
    "Utilities"
   ],
+  "tags": [
+   "System :: Archiving",
+   "System :: Archiving :: Compression",
+   "Text Processing :: Fonts"
+  ],
+  "keywords": [],
   "repo": "https://github.com/google/brotli",
   "home": "https://github.com/google/brotli",
   "downloads": 109196691,
@@ -5317,6 +6749,8 @@
   "python": ">=3.8",
   "deps": 0,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pypa/pyproject-hooks",
   "home": "",
   "downloads": 107653178,
@@ -5337,6 +6771,16 @@
    "Scientific/Engineering",
    "Software Development"
   ],
+  "tags": [
+   "Scientific/Engineering",
+   "Scientific/Engineering :: Artificial Intelligence",
+   "Scientific/Engineering :: Mathematics"
+  ],
+  "keywords": [
+   "learning",
+   "machine",
+   "onnx"
+  ],
   "repo": "https://github.com/microsoft/onnxruntime/tags",
   "home": "https://onnxruntime.ai",
   "downloads": 107512090,
@@ -5356,6 +6800,14 @@
   "topics": [
    "Multimedia"
   ],
+  "tags": [
+   "Multimedia :: Graphics"
+  ],
+  "keywords": [
+   "ipython",
+   "jupyter",
+   "matplotlib"
+  ],
   "repo": "https://github.com/ipython/matplotlib-inline",
   "home": "https://github.com/ipython/matplotlib-inline",
   "downloads": 107476436,
@@ -5373,6 +6825,8 @@
   "python": "Not specified",
   "deps": 1,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "http://github.com/alexmojaki/pure_eval",
   "home": "http://github.com/alexmojaki/pure_eval",
   "downloads": 106024578,
@@ -5390,6 +6844,11 @@
   "python": ">=3.10",
   "deps": 6,
   "topics": [],
+  "tags": [],
+  "keywords": [
+   "azure",
+   "sdk"
+  ],
   "repo": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-blob",
   "home": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-blob",
   "downloads": 105190981,
@@ -5411,6 +6870,21 @@
    "System",
    "Utilities"
   ],
+  "tags": [
+   "System :: Filesystems",
+   "System :: Monitoring"
+  ],
+  "keywords": [
+   "directorysnapshot",
+   "filesystem",
+   "fsevents",
+   "inotify",
+   "kqueue",
+   "monitor",
+   "monitoring",
+   "polling",
+   "readdirectorychangesw"
+  ],
   "repo": "https://github.com/gorakhargosh/watchdog/blob/master/changelog.rst",
   "home": "https://github.com/gorakhargosh/watchdog",
   "downloads": 104553967,
@@ -5428,6 +6902,8 @@
   "python": ">=3.10",
   "deps": 8,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/pypa/build/issues",
   "home": "",
   "downloads": 103953161,
@@ -5447,6 +6923,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/mypyc/ast_serialize",
   "home": "https://github.com/mypyc/ast_serialize",
   "downloads": 103834459,
@@ -5466,6 +6944,10 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [
+   "Software Development :: Debuggers"
+  ],
+  "keywords": [],
   "repo": "http://github.com/alexmojaki/stack_data",
   "home": "http://github.com/alexmojaki/stack_data",
   "downloads": 103471603,
@@ -5485,6 +6967,10 @@
   "topics": [
    "System"
   ],
+  "tags": [
+   "System :: Logging"
+  ],
+  "keywords": [],
   "repo": "https://github.com/nhairs/python-json-logger",
   "home": "https://nhairs.github.io/python-json-logger",
   "downloads": 101812777,
@@ -5504,6 +6990,8 @@
   "topics": [
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/omnilib/aioitertools",
   "home": "",
   "downloads": 101068282,
@@ -5521,6 +7009,8 @@
   "python": "<3.15,>=3.10",
   "deps": 109,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/BerriAI/litellm",
   "home": "https://litellm.ai",
   "downloads": 100336915,
@@ -5541,6 +7031,14 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [],
+  "keywords": [
+   "clean",
+   "imports",
+   "lint",
+   "refactor",
+   "sort"
+  ],
   "repo": "https://github.com/PyCQA/isort/releases",
   "home": "https://isort.readthedocs.io/",
   "downloads": 100154130,
@@ -5559,6 +7057,15 @@
   "deps": 17,
   "topics": [
    "Internet"
+  ],
+  "tags": [
+   "Internet :: WWW/HTTP"
+  ],
+  "keywords": [
+   "caching",
+   "http",
+   "requests",
+   "web"
   ],
   "repo": "https://github.com/psf/cachecontrol/issues",
   "home": "https://pypi.org/project/CacheControl/",
@@ -5581,6 +7088,17 @@
    "Software Development",
    "Utilities"
   ],
+  "tags": [
+   "Documentation",
+   "Software Development :: Documentation"
+  ],
+  "keywords": [
+   "api",
+   "breaking-changes",
+   "dynamic-analysis",
+   "signature",
+   "static-analysis"
+  ],
   "repo": "https://github.com/mkdocstrings/griffe/discussions",
   "home": "https://mkdocstrings.github.io/griffe",
   "downloads": 97136080,
@@ -5601,6 +7119,8 @@
    "Internet",
    "Software Development"
   ],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/googleapis/python-aiplatform",
   "home": "https://github.com/googleapis/python-aiplatform",
   "downloads": 94484658,
@@ -5618,6 +7138,8 @@
   "python": ">=3.10",
   "deps": 13,
   "topics": [],
+  "tags": [],
+  "keywords": [],
   "repo": "https://github.com/jupyter/jupyter_core",
   "home": "https://jupyter.org",
   "downloads": 94049620,
