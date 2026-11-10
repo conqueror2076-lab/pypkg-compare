@@ -35,6 +35,10 @@ TOP_N = int(os.environ.get("TOP_N", CFG.get("top_n", 300)))
 PAIRS_PER_TOPIC = int(CFG.get("pairs_per_topic", 8))  # konudaki ilk N paket eslestirilir
 TODAY = dt.date.today().isoformat()
 TOP_URL = "https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.min.json"
+# Karsilastirma icin anlam tasimayan, cok genis siniflandirmalar
+GENERIC = {"Software Development", "Software Development :: Libraries", "Utilities", "Internet", "System",
+           "Software Development :: Libraries :: Python Modules",
+           "Software Development :: Libraries :: Application Frameworks"}
 UA = {"User-Agent": f"{CFG['site_name']} static builder"}
 esc = html.escape
 
@@ -94,6 +98,9 @@ def fetch_meta(name):
         "python": info.get("requires_python") or "Not specified",
         "deps": len(info.get("requires_dist") or []),
         "topics": topics,
+        "tags": sorted({c[9:] for c in info.get("classifiers") or [] if c.startswith("Topic :: ")} - GENERIC),
+        "keywords": sorted({k.strip().lower() for k in re.split(r"[,\s]+", info.get("keywords") or "") if len(k.strip()) > 2}
+                           - {"python", "python3"}),
         "repo": repo,
         "home": info.get("home_page") or urls.get("Homepage") or "",
     }
@@ -285,13 +292,16 @@ def main():
     for p in pkgs:
         for t in p["topics"]:
             topics.setdefault(t, []).append(p)
+    # Yalnizca gercekten benzer paketler eslestirilir (ortak ozel konu ya da 2 ortak anahtar kelime)
     pairs, rivals = {}, {p["slug"]: [] for p in pkgs}
-    for t, members in topics.items():
-        for a, b in itertools.combinations(members[:PAIRS_PER_TOPIC], 2):
-            if vs_slug(a, b) not in pairs:
-                pairs[vs_slug(a, b)] = (a, b)
-                rivals[a["slug"]].append(b)
-                rivals[b["slug"]].append(a)
+    for a, b in itertools.combinations(pkgs, 2):
+        kw = len(set(a["keywords"]) & set(b["keywords"]))
+        cat = len(set(a["tags"]) & set(b["tags"]))
+        if (kw >= 2 or cat >= 1) and len(rivals[a["slug"]]) < PAIRS_PER_TOPIC \
+                and len(rivals[b["slug"]]) < PAIRS_PER_TOPIC:
+            pairs[vs_slug(a, b)] = (a, b)
+            rivals[a["slug"]].append(b)
+            rivals[b["slug"]].append(a)
 
     if SITE.exists():
         shutil.rmtree(SITE)
