@@ -3,10 +3,10 @@
   "name": "boto3",
   "slug": "boto3",
   "summary": "The AWS SDK for Python (Boto3)",
-  "version": "1.44.9",
-  "released": "2026-11-21",
+  "version": "1.44.10",
+  "released": "2026-11-23",
   "first_release": "2014-11-11",
-  "n_releases": 2161,
+  "n_releases": 2162,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 4,
@@ -22,12 +22,12 @@
   "name": "packaging",
   "slug": "packaging",
   "summary": "Core utilities for Python packages",
-  "version": "26.3",
-  "released": "2026-08-04",
+  "version": "26.4",
+  "released": "2026-11-23",
   "first_release": "2014-09-05",
-  "n_releases": 54,
+  "n_releases": 55,
   "license": "Apache-2.0 OR BSD-2-Clause",
-  "python": ">=3.9",
+  "python": ">=3.10",
   "deps": 0,
   "topics": [],
   "tags": [],
@@ -505,10 +505,10 @@
   "name": "botocore",
   "slug": "botocore",
   "summary": "Low-level, data-driven core of boto 3.",
-  "version": "1.44.9",
-  "released": "2026-11-21",
+  "version": "1.44.10",
+  "released": "2026-11-23",
   "first_release": "2012-12-21",
-  "n_releases": 2559,
+  "n_releases": 2560,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 4,
@@ -1137,10 +1137,10 @@
   "name": "filelock",
   "slug": "filelock",
   "summary": "A platform independent file lock.",
-  "version": "4.3.0",
-  "released": "2026-11-22",
+  "version": "4.3.1",
+  "released": "2026-11-23",
   "first_release": "2014-07-06",
-  "n_releases": 147,
+  "n_releases": 148,
   "license": "MIT",
   "python": ">=3.11",
   "deps": 0,
@@ -1326,6 +1326,25 @@
   "rank": 56
  },
  {
+  "name": "rich",
+  "slug": "rich",
+  "summary": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal",
+  "version": "15.0.0",
+  "released": "2026-04-12",
+  "first_release": "2019-11-10",
+  "n_releases": 207,
+  "license": "MIT License",
+  "python": ">=3.9.0",
+  "deps": 3,
+  "topics": [],
+  "tags": [],
+  "keywords": [],
+  "repo": "https://github.com/Textualize/rich",
+  "home": "https://github.com/Textualize/rich",
+  "downloads": 546356936,
+  "rank": 57
+ },
+ {
   "name": "aiohttp",
   "slug": "aiohttp",
   "summary": "Async http client/server framework (asyncio)",
@@ -1346,7 +1365,7 @@
   "repo": "https://github.com/aio-libs/aiohttp/actions?query=workflow%3ACI",
   "home": "https://github.com/aio-libs/aiohttp",
   "downloads": 544736474,
-  "rank": 57
+  "rank": 58
  },
  {
   "name": "yarl",
@@ -1374,7 +1393,7 @@
   "repo": "https://github.com/aio-libs/yarl/actions?query=branch:master",
   "home": "https://github.com/aio-libs/yarl",
   "downloads": 540070946,
-  "rank": 58
+  "rank": 59
  },
  {
   "name": "mdurl",
@@ -1398,7 +1417,7 @@
   "repo": "https://github.com/executablebooks/mdurl",
   "home": "https://github.com/executablebooks/mdurl",
   "downloads": 523473477,
-  "rank": 59
+  "rank": 60
  },
  {
   "name": "propcache",
@@ -1426,7 +1445,7 @@
   "repo": "https://github.com/aio-libs/propcache/actions?query=branch:master",
   "home": "https://github.com/aio-libs/propcache",
   "downloads": 519223742,
-  "rank": 60
+  "rank": 61
  },
  {
   "name": "pip",
@@ -1449,7 +1468,7 @@
   "repo": "https://github.com/pypa/pip",
   "home": "https://pip.pypa.io/",
   "downloads": 517082117,
-  "rank": 61
+  "rank": 62
  },
  {
   "name": "annotated-doc",
@@ -1471,7 +1490,7 @@
   "repo": "https://github.com/fastapi/annotated-doc/release-notes.md",
   "home": "https://github.com/fastapi/annotated-doc",
   "downloads": 508419147,
-  "rank": 62
+  "rank": 63
  },
  {
   "name": "websockets",
@@ -1492,7 +1511,7 @@
   "repo": "https://github.com/python-websockets/websockets",
   "home": "https://github.com/python-websockets/websockets",
   "downloads": 507255617,
-  "rank": 63
+  "rank": 64
  },
  {
   "name": "fastapi",
@@ -1517,7 +1536,7 @@
   "repo": "https://github.com/fastapi/fastapi",
   "home": "https://github.com/fastapi/fastapi",
   "downloads": 506417450,
-  "rank": 64
+  "rank": 65
  },
  {
   "name": "googleapis-common-protos",
@@ -1538,7 +1557,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos",
   "home": "",
   "downloads": 497405873,
-  "rank": 65
+  "rank": 66
  },
  {
   "name": "pytz",
@@ -1565,7 +1584,7 @@
   "repo": "https://github.com/stub42/pytz/issues",
   "home": "http://pythonhosted.org/pytz",
   "downloads": 495211887,
-  "rank": 66
+  "rank": 67
  },
  {
   "name": "frozenlist",
@@ -1584,7 +1603,7 @@
   "repo": "https://github.com/aio-libs/frozenlist/actions",
   "home": "https://github.com/aio-libs/frozenlist",
   "downloads": 490753544,
-  "rank": 67
+  "rank": 68
  },
  {
   "name": "tqdm",
@@ -1637,7 +1656,7 @@
   "repo": "https://github.com/tqdm/tqdm",
   "home": "",
   "downloads": 481011472,
-  "rank": 68
+  "rank": 69
  },
  {
   "name": "pyasn1",
@@ -1661,7 +1680,7 @@
   "repo": "https://github.com/pyasn1/pyasn1",
   "home": "https://github.com/pyasn1/pyasn1",
   "downloads": 478530370,
-  "rank": 69
+  "rank": 70
  },
  {
   "name": "aiosignal",
@@ -1680,7 +1699,7 @@
   "repo": "https://github.com/aio-libs/aiosignal/actions",
   "home": "https://github.com/aio-libs/aiosignal",
   "downloads": 476527133,
-  "rank": 70
+  "rank": 71
  },
  {
   "name": "aiohappyeyeballs",
@@ -1701,7 +1720,7 @@
   "repo": "https://github.com/aio-libs/aiohappyeyeballs/issues",
   "home": "",
   "downloads": 474630624,
-  "rank": 71
+  "rank": 72
  },
  {
   "name": "sniffio",
@@ -1724,7 +1743,7 @@
   "repo": "https://github.com/python-trio/sniffio",
   "home": "https://github.com/python-trio/sniffio",
   "downloads": 474035549,
-  "rank": 72
+  "rank": 73
  },
  {
   "name": "pydantic-settings",
@@ -1746,7 +1765,7 @@
   "repo": "https://github.com/pydantic/pydantic-settings/releases",
   "home": "https://github.com/pydantic/pydantic-settings",
   "downloads": 463559056,
-  "rank": 73
+  "rank": 74
  },
  {
   "name": "wrapt",
@@ -1769,7 +1788,7 @@
   "repo": "https://github.com/GrahamDumpleton/wrapt/issues/",
   "home": "https://github.com/GrahamDumpleton/wrapt",
   "downloads": 455669990,
-  "rank": 74
+  "rank": 75
  },
  {
   "name": "python-multipart",
@@ -1790,7 +1809,7 @@
   "repo": "https://github.com/Kludex/python-multipart/blob/master/CHANGELOG.md",
   "home": "https://github.com/Kludex/python-multipart",
   "downloads": 442464422,
-  "rank": 75
+  "rank": 76
  },
  {
   "name": "google-auth",
@@ -1818,7 +1837,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth",
   "downloads": 430311083,
-  "rank": 76
+  "rank": 77
  },
  {
   "name": "pyarrow",
@@ -1837,7 +1856,7 @@
   "repo": "https://github.com/apache/arrow/issues",
   "home": "https://arrow.apache.org/",
   "downloads": 429406703,
-  "rank": 77
+  "rank": 78
  },
  {
   "name": "trove-classifiers",
@@ -1858,7 +1877,7 @@
   "repo": "https://github.com/pypa/trove-classifiers",
   "home": "https://github.com/pypa/trove-classifiers",
   "downloads": 418058349,
-  "rank": 78
+  "rank": 79
  },
  {
   "name": "zipp",
@@ -1877,7 +1896,7 @@
   "repo": "https://github.com/jaraco/zipp",
   "home": "",
   "downloads": 414687330,
-  "rank": 79
+  "rank": 80
  },
  {
   "name": "lxml",
@@ -1902,7 +1921,7 @@
   "repo": "https://github.com/lxml/lxml",
   "home": "https://lxml.de/",
   "downloads": 413464934,
-  "rank": 80
+  "rank": 81
  },
  {
   "name": "tenacity",
@@ -1923,7 +1942,7 @@
   "repo": "https://github.com/jd/tenacity",
   "home": "https://github.com/jd/tenacity",
   "downloads": 407422649,
-  "rank": 81
+  "rank": 82
  },
  {
   "name": "importlib-metadata",
@@ -1942,7 +1961,7 @@
   "repo": "https://github.com/python/importlib_metadata",
   "home": "",
   "downloads": 399808222,
-  "rank": 82
+  "rank": 83
  },
  {
   "name": "pyasn1-modules",
@@ -1966,7 +1985,7 @@
   "repo": "https://github.com/pyasn1/pyasn1-modules/blob/master/CHANGES.txt",
   "home": "https://github.com/pyasn1/pyasn1-modules",
   "downloads": 396862529,
-  "rank": 83
+  "rank": 84
  },
  {
   "name": "ruff",
@@ -1996,7 +2015,7 @@
   "repo": "https://github.com/astral-sh/ruff/blob/main/CHANGELOG.md",
   "home": "https://docs.astral.sh/ruff",
   "downloads": 396472971,
-  "rank": 84
+  "rank": 85
  },
  {
   "name": "SQLAlchemy",
@@ -2019,7 +2038,7 @@
   "repo": "https://github.com/sqlalchemy/sqlalchemy/discussions",
   "home": "https://www.sqlalchemy.org",
   "downloads": 394679025,
-  "rank": 85
+  "rank": 86
  },
  {
   "name": "jiter",
@@ -2042,7 +2061,7 @@
   "repo": "https://github.com/pydantic/jiter/",
   "home": "https://github.com/pydantic/jiter/",
   "downloads": 393416416,
-  "rank": 86
+  "rank": 87
  },
  {
   "name": "greenlet",
@@ -2069,7 +2088,7 @@
   "repo": "https://github.com/python-greenlet/greenlet/issues",
   "home": "https://greenlet.readthedocs.io",
   "downloads": 392191455,
-  "rank": 87
+  "rank": 88
  },
  {
   "name": "hatchling",
@@ -2096,7 +2115,7 @@
   "repo": "https://github.com/pypa/hatch/tree/master/backend",
   "home": "https://hatch.pypa.io/latest/",
   "downloads": 382322969,
-  "rank": 88
+  "rank": 89
  },
  {
   "name": "wheel",
@@ -2122,7 +2141,7 @@
   "repo": "https://github.com/pypa/wheel/issues",
   "home": "",
   "downloads": 380282133,
-  "rank": 89
+  "rank": 90
  },
  {
   "name": "pyparsing",
@@ -2147,7 +2166,7 @@
   "repo": "https://github.com/pyparsing/pyparsing/",
   "home": "https://github.com/pyparsing/pyparsing/",
   "downloads": 376798447,
-  "rank": 90
+  "rank": 91
  },
  {
   "name": "grpcio",
@@ -2156,7 +2175,7 @@
   "version": "1.85.3",
   "released": "2026-11-18",
   "first_release": "2015-03-30",
-  "n_releases": 295,
+  "n_releases": 296,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 2,
@@ -2166,16 +2185,16 @@
   "repo": "https://github.com/grpc/grpc/issues",
   "home": "https://grpc.io",
   "downloads": 370169739,
-  "rank": 91
+  "rank": 92
  },
  {
   "name": "regex",
   "slug": "regex",
   "summary": "Alternative regular expression module, to replace re.",
-  "version": "2026.11.19",
-  "released": "2026-11-18",
+  "version": "2026.11.23",
+  "released": "2026-11-24",
   "first_release": "2010-02-17",
-  "n_releases": 375,
+  "n_releases": 376,
   "license": "Apache-2.0 AND CNRI-Python",
   "python": ">=3.11",
   "deps": 0,
@@ -2193,7 +2212,7 @@
   "repo": "https://github.com/mrabarnett/mrab-regex",
   "home": "https://github.com/mrabarnett/mrab-regex",
   "downloads": 367923635,
-  "rank": 92
+  "rank": 93
  },
  {
   "name": "truststore",
@@ -2212,7 +2231,7 @@
   "repo": "https://github.com/sethmlarson/truststore",
   "home": "",
   "downloads": 367414711,
-  "rank": 93
+  "rank": 94
  },
  {
   "name": "scipy",
@@ -2236,7 +2255,7 @@
   "repo": "https://github.com/scipy/scipy/releases",
   "home": "",
   "downloads": 365201508,
-  "rank": 94
+  "rank": 95
  },
  {
   "name": "grpcio-status",
@@ -2245,7 +2264,7 @@
   "version": "1.85.3",
   "released": "2026-11-18",
   "first_release": "2018-12-11",
-  "n_releases": 217,
+  "n_releases": 218,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 3,
@@ -2255,16 +2274,16 @@
   "repo": "",
   "home": "https://grpc.io",
   "downloads": 362579636,
-  "rank": 95
+  "rank": 96
  },
  {
   "name": "openai",
   "slug": "openai",
   "summary": "The official Python library for the openai API",
-  "version": "3.57.0",
-  "released": "2026-11-20",
+  "version": "3.58.0",
+  "released": "2026-11-23",
   "first_release": "2020-02-18",
-  "n_releases": 478,
+  "n_releases": 479,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 17,
@@ -2276,7 +2295,7 @@
   "repo": "https://github.com/openai/openai-python",
   "home": "https://github.com/openai/openai-python",
   "downloads": 359077600,
-  "rank": 96
+  "rank": 97
  },
  {
   "name": "httpx2",
@@ -2299,7 +2318,7 @@
   "repo": "https://github.com/pydantic/httpx2/blob/main/src/httpx2/CHANGELOG.md",
   "home": "https://github.com/pydantic/httpx2",
   "downloads": 353848370,
-  "rank": 97
+  "rank": 98
  },
  {
   "name": "watchfiles",
@@ -2323,7 +2342,7 @@
   "repo": "https://github.com/samuelcolvin/watchfiles/releases",
   "home": "https://github.com/samuelcolvin/watchfiles",
   "downloads": 353451654,
-  "rank": 98
+  "rank": 99
  },
  {
   "name": "httpcore2",
@@ -2346,7 +2365,7 @@
   "repo": "https://github.com/pydantic/httpx2/blob/main/src/httpcore2/CHANGELOG.md",
   "home": "https://github.com/pydantic/httpx2",
   "downloads": 353317458,
-  "rank": 99
+  "rank": 100
  },
  {
   "name": "psutil",
@@ -2406,7 +2425,7 @@
   "repo": "https://github.com/giampaolo/psutil",
   "home": "https://github.com/giampaolo/psutil",
   "downloads": 352457256,
-  "rank": 100
+  "rank": 101
  },
  {
   "name": "google-api-core",
@@ -2427,7 +2446,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-api-core",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-api-core",
   "downloads": 347302268,
-  "rank": 101
+  "rank": 102
  },
  {
   "name": "openpyxl",
@@ -2446,7 +2465,7 @@
   "repo": "",
   "home": "https://openpyxl.readthedocs.io",
   "downloads": 337652656,
-  "rank": 102
+  "rank": 103
  },
  {
   "name": "et-xmlfile",
@@ -2465,7 +2484,7 @@
   "repo": "",
   "home": "https://foss.heptapod.net/openpyxl/et_xmlfile",
   "downloads": 335476325,
-  "rank": 103
+  "rank": 104
  },
  {
   "name": "soupsieve",
@@ -2497,7 +2516,7 @@
   "repo": "https://github.com/facelessuser/soupsieve",
   "home": "https://github.com/facelessuser/soupsieve",
   "downloads": 331809368,
-  "rank": 104
+  "rank": 105
  },
  {
   "name": "distro",
@@ -2521,7 +2540,7 @@
   "repo": "https://github.com/python-distro/distro",
   "home": "https://github.com/python-distro/distro",
   "downloads": 331229650,
-  "rank": 105
+  "rank": 106
  },
  {
   "name": "opentelemetry-semantic-conventions",
@@ -2540,16 +2559,16 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-semantic-conventions",
   "downloads": 329926089,
-  "rank": 106
+  "rank": 107
  },
  {
   "name": "coverage",
   "slug": "coverage",
   "summary": "Code coverage measurement for Python",
-  "version": "7.17.4",
-  "released": "2026-11-20",
+  "version": "7.17.5",
+  "released": "2026-11-23",
   "first_release": "2009-05-16",
-  "n_releases": 202,
+  "n_releases": 203,
   "license": "Apache-2.0",
   "python": ">=3.11",
   "deps": 0,
@@ -2568,7 +2587,7 @@
   "repo": "https://github.com/coveragepy/coveragepy",
   "home": "https://github.com/coveragepy/coveragepy",
   "downloads": 328644834,
-  "rank": 107
+  "rank": 108
  },
  {
   "name": "opentelemetry-sdk",
@@ -2587,7 +2606,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-sdk",
   "downloads": 323709963,
-  "rank": 108
+  "rank": 109
  },
  {
   "name": "beautifulsoup4",
@@ -2618,7 +2637,7 @@
   "repo": "",
   "home": "https://www.crummy.com/software/BeautifulSoup/bs4/",
   "downloads": 315709564,
-  "rank": 109
+  "rank": 110
  },
  {
   "name": "shellingham",
@@ -2641,7 +2660,7 @@
   "repo": "https://github.com/sarugaku/shellingham",
   "home": "https://github.com/sarugaku/shellingham",
   "downloads": 307930732,
-  "rank": 110
+  "rank": 111
  },
  {
   "name": "sse-starlette",
@@ -2664,7 +2683,7 @@
   "repo": "https://github.com/sysid/sse-starlette",
   "home": "https://github.com/sysid/sse-starlette",
   "downloads": 302700566,
-  "rank": 111
+  "rank": 112
  },
  {
   "name": "s3fs",
@@ -2685,7 +2704,7 @@
   "repo": "http://github.com/fsspec/s3fs/",
   "home": "http://github.com/fsspec/s3fs/",
   "downloads": 302389652,
-  "rank": 112
+  "rank": 113
  },
  {
   "name": "mypy-extensions",
@@ -2706,7 +2725,7 @@
   "repo": "https://github.com/python/mypy_extensions",
   "home": "https://github.com/python/mypy_extensions",
   "downloads": 299732231,
-  "rank": 113
+  "rank": 114
  },
  {
   "name": "typer",
@@ -2727,7 +2746,7 @@
   "repo": "https://github.com/fastapi/typer",
   "home": "https://github.com/fastapi/typer",
   "downloads": 293496192,
-  "rank": 114
+  "rank": 115
  },
  {
   "name": "mcp",
@@ -2750,7 +2769,7 @@
   "repo": "https://github.com/modelcontextprotocol/python-sdk/issues",
   "home": "https://modelcontextprotocol.io",
   "downloads": 293023940,
-  "rank": 115
+  "rank": 116
  },
  {
   "name": "proto-plus",
@@ -2773,7 +2792,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/proto-plus",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/proto-plus",
   "downloads": 289332986,
-  "rank": 116
+  "rank": 117
  },
  {
   "name": "colorama",
@@ -2805,7 +2824,7 @@
   "repo": "https://github.com/tartley/colorama",
   "home": "https://github.com/tartley/colorama",
   "downloads": 288885263,
-  "rank": 117
+  "rank": 118
  },
  {
   "name": "wcwidth",
@@ -2843,7 +2862,7 @@
   "repo": "https://github.com/jquast/wcwidth",
   "home": "https://github.com/jquast/wcwidth",
   "downloads": 283532049,
-  "rank": 118
+  "rank": 119
  },
  {
   "name": "uvloop",
@@ -2869,7 +2888,7 @@
   "repo": "https://github.com/MagicStack/uvloop",
   "home": "",
   "downloads": 280953133,
-  "rank": 119
+  "rank": 120
  },
  {
   "name": "huggingface-hub",
@@ -2900,7 +2919,7 @@
   "repo": "https://github.com/huggingface/huggingface_hub",
   "home": "https://github.com/huggingface/huggingface_hub",
   "downloads": 279727374,
-  "rank": 120
+  "rank": 121
  },
  {
   "name": "dnspython",
@@ -2924,7 +2943,7 @@
   "repo": "https://github.com/rthalley/dnspython/issues",
   "home": "",
   "downloads": 277076453,
-  "rank": 121
+  "rank": 122
  },
  {
   "name": "requests-oauthlib",
@@ -2943,7 +2962,7 @@
   "repo": "https://github.com/requests/requests-oauthlib",
   "home": "https://github.com/requests/requests-oauthlib",
   "downloads": 275636427,
-  "rank": 122
+  "rank": 123
  },
  {
   "name": "httptools",
@@ -2962,7 +2981,7 @@
   "repo": "https://github.com/MagicStack/httptools",
   "home": "https://github.com/MagicStack/httptools",
   "downloads": 275365180,
-  "rank": 123
+  "rank": 124
  },
  {
   "name": "tomli",
@@ -2985,7 +3004,7 @@
   "repo": "https://github.com/hukkin/tomli/blob/master/CHANGELOG.md",
   "home": "https://github.com/hukkin/tomli",
   "downloads": 273809440,
-  "rank": 124
+  "rank": 125
  },
  {
   "name": "pytest-asyncio",
@@ -3008,7 +3027,7 @@
   "repo": "https://github.com/pytest-dev/pytest-asyncio/issues",
   "home": "https://github.com/pytest-dev/pytest-asyncio",
   "downloads": 270681184,
-  "rank": 125
+  "rank": 126
  },
  {
   "name": "cachetools",
@@ -3029,7 +3048,7 @@
   "repo": "https://github.com/tkem/cachetools/blob/master/CHANGELOG.rst",
   "home": "https://github.com/tkem/cachetools/",
   "downloads": 269479664,
-  "rank": 126
+  "rank": 127
  },
  {
   "name": "opentelemetry-proto",
@@ -3048,7 +3067,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/opentelemetry-proto",
   "downloads": 268907865,
-  "rank": 127
+  "rank": 128
  },
  {
   "name": "docstring-parser",
@@ -3074,7 +3093,7 @@
   "repo": "https://github.com/rr-/docstring_parser/blob/master/CHANGELOG.md",
   "home": "",
   "downloads": 268509129,
-  "rank": 128
+  "rank": 129
  },
  {
   "name": "editables",
@@ -3096,7 +3115,7 @@
   "repo": "https://github.com/pfmoore/editables",
   "home": "",
   "downloads": 267276345,
-  "rank": 129
+  "rank": 130
  },
  {
   "name": "oauthlib",
@@ -3117,7 +3136,7 @@
   "repo": "https://github.com/oauthlib/oauthlib/blob/master/CHANGELOG.rst",
   "home": "https://github.com/oauthlib/oauthlib",
   "downloads": 265289924,
-  "rank": 130
+  "rank": 131
  },
  {
   "name": "Werkzeug",
@@ -3144,7 +3163,7 @@
   "repo": "https://github.com/pallets/werkzeug/",
   "home": "",
   "downloads": 261531809,
-  "rank": 131
+  "rank": 132
  },
  {
   "name": "more-itertools",
@@ -3174,16 +3193,16 @@
   "repo": "https://github.com/more-itertools/more-itertools",
   "home": "https://github.com/more-itertools/more-itertools",
   "downloads": 256091984,
-  "rank": 132
+  "rank": 133
  },
  {
   "name": "virtualenv",
   "slug": "virtualenv",
   "summary": "Virtual Python Environment builder",
-  "version": "21.15.12",
-  "released": "2026-11-21",
+  "version": "21.15.13",
+  "released": "2026-11-23",
   "first_release": "2007-09-14",
-  "n_releases": 322,
+  "n_releases": 323,
   "license": "MIT",
   "python": ">=3.9",
   "deps": 7,
@@ -3202,7 +3221,7 @@
   "repo": "https://github.com/sponsors/gaborbernat",
   "home": "https://github.com/pypa/virtualenv",
   "downloads": 254047981,
-  "rank": 133
+  "rank": 134
  },
  {
   "name": "defusedxml",
@@ -3229,7 +3248,7 @@
   "repo": "https://github.com/tiran/defusedxml",
   "home": "https://github.com/tiran/defusedxml",
   "downloads": 249444390,
-  "rank": 134
+  "rank": 135
  },
  {
   "name": "sortedcontainers",
@@ -3248,7 +3267,7 @@
   "repo": "",
   "home": "http://www.grantjenks.com/docs/sortedcontainers/",
   "downloads": 248428998,
-  "rank": 135
+  "rank": 136
  },
  {
   "name": "opentelemetry-exporter-otlp-proto-common",
@@ -3267,7 +3286,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-common",
   "downloads": 247189908,
-  "rank": 136
+  "rank": 137
  },
  {
   "name": "networkx",
@@ -3302,7 +3321,7 @@
   "repo": "https://github.com/networkx/networkx/issues",
   "home": "https://networkx.org/",
   "downloads": 243520420,
-  "rank": 137
+  "rank": 138
  },
  {
   "name": "pytest-cov",
@@ -3333,18 +3352,18 @@
   "repo": "https://github.com/pytest-dev/pytest-cov/issues",
   "home": "",
   "downloads": 242346370,
-  "rank": 138
+  "rank": 139
  },
  {
   "name": "redis",
   "slug": "redis",
   "summary": "Python client for Redis database and key-value store",
-  "version": "8.1.0",
-  "released": "2026-07-30",
+  "version": "8.2.0",
+  "released": "2026-11-23",
   "first_release": "2012-10-08",
-  "n_releases": 170,
+  "n_releases": 171,
   "license": "MIT",
-  "python": ">=3.10",
+  "python": ">=3.11",
   "deps": 11,
   "topics": [],
   "tags": [],
@@ -3356,7 +3375,7 @@
   "repo": "https://github.com/redis/redis-py/releases",
   "home": "https://github.com/redis/redis-py",
   "downloads": 237422918,
-  "rank": 139
+  "rank": 140
  },
  {
   "name": "distlib",
@@ -3377,7 +3396,7 @@
   "repo": "https://github.com/pypa/distlib",
   "home": "https://github.com/pypa/distlib",
   "downloads": 237233490,
-  "rank": 140
+  "rank": 141
  },
  {
   "name": "exceptiongroup",
@@ -3396,7 +3415,7 @@
   "repo": "https://github.com/agronholm/exceptiongroup/blob/main/CHANGES.rst",
   "home": "",
   "downloads": 235001851,
-  "rank": 141
+  "rank": 142
  },
  {
   "name": "hf-xet",
@@ -3419,7 +3438,7 @@
   "repo": "https://github.com/huggingface/xet-core",
   "home": "https://github.com/huggingface/xet-core",
   "downloads": 234446922,
-  "rank": 142
+  "rank": 143
  },
  {
   "name": "fonttools",
@@ -3445,7 +3464,7 @@
   "repo": "http://github.com/fonttools/fonttools",
   "home": "http://github.com/fonttools/fonttools",
   "downloads": 234391052,
-  "rank": 143
+  "rank": 144
  },
  {
   "name": "msgpack",
@@ -3474,7 +3493,7 @@
   "repo": "https://github.com/msgpack/msgpack-python/blob/main/CHANGELOG.md",
   "home": "https://msgpack.org/",
   "downloads": 232767718,
-  "rank": 144
+  "rank": 145
  },
  {
   "name": "psycopg2-binary",
@@ -3499,7 +3518,7 @@
   "repo": "https://github.com/psycopg/psycopg2",
   "home": "https://psycopg.org/",
   "downloads": 232463285,
-  "rank": 145
+  "rank": 146
  },
  {
   "name": "itsdangerous",
@@ -3518,7 +3537,7 @@
   "repo": "https://github.com/pallets/itsdangerous/",
   "home": "",
   "downloads": 227498826,
-  "rank": 146
+  "rank": 147
  },
  {
   "name": "opentelemetry-exporter-otlp-proto-http",
@@ -3537,7 +3556,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-http",
   "downloads": 220896653,
-  "rank": 147
+  "rank": 148
  },
  {
   "name": "Mako",
@@ -3560,7 +3579,7 @@
   "repo": "https://github.com/sqlalchemy/mako",
   "home": "https://www.makotemplates.org/",
   "downloads": 220871170,
-  "rank": 148
+  "rank": 149
  },
  {
   "name": "alembic",
@@ -3583,7 +3602,7 @@
   "repo": "https://github.com/sqlalchemy/alembic/issues/",
   "home": "https://alembic.sqlalchemy.org",
   "downloads": 218830049,
-  "rank": 149
+  "rank": 150
  },
  {
   "name": "requests-toolbelt",
@@ -3602,7 +3621,7 @@
   "repo": "https://github.com/requests/toolbelt/blob/master/HISTORY.rst",
   "home": "https://toolbelt.readthedocs.io/",
   "downloads": 218747095,
-  "rank": 150
+  "rank": 151
  },
  {
   "name": "orjson",
@@ -3621,7 +3640,7 @@
   "repo": "https://github.com/ijl/orjson/blob/master/CHANGELOG.md",
   "home": "",
   "downloads": 218459023,
-  "rank": 151
+  "rank": 152
  },
  {
   "name": "prompt_toolkit",
@@ -3642,7 +3661,7 @@
   "repo": "https://github.com/prompt-toolkit/python-prompt-toolkit",
   "home": "https://github.com/prompt-toolkit/python-prompt-toolkit",
   "downloads": 218302051,
-  "rank": 152
+  "rank": 153
  },
  {
   "name": "tiktoken",
@@ -3661,7 +3680,7 @@
   "repo": "https://github.com/openai/tiktoken/blob/main/CHANGELOG.md",
   "home": "",
   "downloads": 212211718,
-  "rank": 153
+  "rank": 154
  },
  {
   "name": "scikit-learn",
@@ -3685,7 +3704,7 @@
   "repo": "https://github.com/scikit-learn/scikit-learn",
   "home": "",
   "downloads": 210511784,
-  "rank": 154
+  "rank": 155
  },
  {
   "name": "tokenizers",
@@ -3715,7 +3734,7 @@
   "repo": "https://github.com/huggingface/tokenizers",
   "home": "https://github.com/huggingface/tokenizers",
   "downloads": 205008768,
-  "rank": 155
+  "rank": 156
  },
  {
   "name": "rsa",
@@ -3738,7 +3757,7 @@
   "repo": "https://github.com/sybrenstuvel/python-rsa",
   "home": "https://stuvel.eu/rsa",
   "downloads": 204478654,
-  "rank": 156
+  "rank": 157
  },
  {
   "name": "cloudpickle",
@@ -3764,7 +3783,7 @@
   "repo": "https://github.com/cloudpipe/cloudpickle",
   "home": "https://github.com/cloudpipe/cloudpickle",
   "downloads": 203292046,
-  "rank": 157
+  "rank": 158
  },
  {
   "name": "threadpoolctl",
@@ -3785,7 +3804,7 @@
   "repo": "https://github.com/joblib/threadpoolctl",
   "home": "",
   "downloads": 200531158,
-  "rank": 158
+  "rank": 159
  },
  {
   "name": "mypy",
@@ -3806,7 +3825,7 @@
   "repo": "https://github.com/python/mypy/blob/master/CHANGELOG.md",
   "home": "https://www.mypy-lang.org/",
   "downloads": 198973832,
-  "rank": 159
+  "rank": 160
  },
  {
   "name": "isodate",
@@ -3828,7 +3847,7 @@
   "repo": "https://github.com/gweis/isodate/",
   "home": "https://github.com/gweis/isodate/",
   "downloads": 196267207,
-  "rank": 160
+  "rank": 161
  },
  {
   "name": "Flask",
@@ -3854,7 +3873,7 @@
   "repo": "https://github.com/pallets/flask/",
   "home": "",
   "downloads": 195141047,
-  "rank": 161
+  "rank": 162
  },
  {
   "name": "email-validator",
@@ -3879,16 +3898,16 @@
   "repo": "https://github.com/JoshData/python-email-validator",
   "home": "https://github.com/JoshData/python-email-validator",
   "downloads": 194342919,
-  "rank": 162
+  "rank": 163
  },
  {
   "name": "anthropic",
   "slug": "anthropic",
   "summary": "The official Python library for the anthropic API",
-  "version": "2.12.0",
-  "released": "2026-11-20",
+  "version": "2.13.0",
+  "released": "2026-11-23",
   "first_release": "2023-02-09",
-  "n_releases": 243,
+  "n_releases": 244,
   "license": "Apache Software License",
   "python": ">=3.10",
   "deps": 17,
@@ -3900,7 +3919,7 @@
   "repo": "https://github.com/anthropics/anthropic-sdk-python",
   "home": "https://github.com/anthropics/anthropic-sdk-python",
   "downloads": 193758508,
-  "rank": 163
+  "rank": 164
  },
  {
   "name": "nodeenv",
@@ -3921,7 +3940,7 @@
   "repo": "https://github.com/ekalinin/nodeenv",
   "home": "https://github.com/ekalinin/nodeenv",
   "downloads": 192235504,
-  "rank": 164
+  "rank": 165
  },
  {
   "name": "pyOpenSSL",
@@ -3947,16 +3966,16 @@
   "repo": "https://github.com/pyca/pyopenssl",
   "home": "https://pyopenssl.org/",
   "downloads": 191319793,
-  "rank": 165
+  "rank": 166
  },
  {
   "name": "python-discovery",
   "slug": "python-discovery",
   "summary": "Python interpreter discovery",
-  "version": "1.9.6",
-  "released": "2026-11-18",
+  "version": "1.9.7",
+  "released": "2026-11-23",
   "first_release": "2026-02-25",
-  "n_releases": 36,
+  "n_releases": 37,
   "license": "MIT",
   "python": ">=3.9",
   "deps": 1,
@@ -3972,7 +3991,7 @@
   "repo": "https://github.com/tox-dev/python-discovery/blob/main/docs/changelog.rst",
   "home": "https://github.com/tox-dev/python-discovery",
   "downloads": 188851405,
-  "rank": 166
+  "rank": 167
  },
  {
   "name": "httpx-sse",
@@ -3991,7 +4010,7 @@
   "repo": "https://github.com/florimondmanca/httpx-sse",
   "home": "https://github.com/florimondmanca/httpx-sse",
   "downloads": 188535756,
-  "rank": 167
+  "rank": 168
  },
  {
   "name": "joblib",
@@ -4016,7 +4035,7 @@
   "repo": "https://github.com/joblib/joblib",
   "home": "https://joblib.readthedocs.io",
   "downloads": 188397184,
-  "rank": 168
+  "rank": 169
  },
  {
   "name": "psycopg",
@@ -4041,7 +4060,7 @@
   "repo": "https://github.com/psycopg/psycopg",
   "home": "https://psycopg.org/",
   "downloads": 187854205,
-  "rank": 169
+  "rank": 170
  },
  {
   "name": "blinker",
@@ -4060,7 +4079,7 @@
   "repo": "https://github.com/pallets-eco/blinker/",
   "home": "",
   "downloads": 187721278,
-  "rank": 170
+  "rank": 171
  },
  {
   "name": "matplotlib",
@@ -4083,7 +4102,7 @@
   "repo": "https://github.com/matplotlib/matplotlib/issues",
   "home": "https://matplotlib.org",
   "downloads": 186363242,
-  "rank": 171
+  "rank": 172
  },
  {
   "name": "zstandard",
@@ -4106,7 +4125,7 @@
   "repo": "https://github.com/indygreg/python-zstandard",
   "home": "https://github.com/indygreg/python-zstandard",
   "downloads": 185684888,
-  "rank": 172
+  "rank": 173
  },
  {
   "name": "tzlocal",
@@ -4127,7 +4146,7 @@
   "repo": "https://github.com/regebro/tzlocal/blob/master/CHANGES.txt",
   "home": "",
   "downloads": 185529714,
-  "rank": 173
+  "rank": 174
  },
  {
   "name": "execnet",
@@ -4152,7 +4171,7 @@
   "repo": "",
   "home": "https://execnet.readthedocs.io/en/latest/",
   "downloads": 185140878,
-  "rank": 174
+  "rank": 175
  },
  {
   "name": "pytest-xdist",
@@ -4177,7 +4196,7 @@
   "repo": "https://github.com/pytest-dev/pytest-xdist",
   "home": "https://github.com/pytest-dev/pytest-xdist",
   "downloads": 185028314,
-  "rank": 175
+  "rank": 176
  },
  {
   "name": "h2",
@@ -4196,7 +4215,7 @@
   "repo": "https://github.com/python-hyper/h2/issues",
   "home": "https://github.com/python-hyper/h2/",
   "downloads": 184976837,
-  "rank": 176
+  "rank": 177
  },
  {
   "name": "google-cloud-core",
@@ -4217,7 +4236,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-core",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-core",
   "downloads": 184949544,
-  "rank": 177
+  "rank": 178
  },
  {
   "name": "hpack",
@@ -4236,7 +4255,7 @@
   "repo": "https://github.com/python-hyper/hpack/issues",
   "home": "https://github.com/python-hyper/hpack/",
   "downloads": 184671416,
-  "rank": 178
+  "rank": 179
  },
  {
   "name": "websocket-client",
@@ -4261,7 +4280,7 @@
   "repo": "https://github.com/websocket-client/websocket-client/releases",
   "home": "https://github.com/websocket-client/websocket-client",
   "downloads": 184538348,
-  "rank": 179
+  "rank": 180
  },
  {
   "name": "psycopg-binary",
@@ -4286,7 +4305,7 @@
   "repo": "https://github.com/psycopg/psycopg",
   "home": "https://psycopg.org/",
   "downloads": 183898067,
-  "rank": 180
+  "rank": 181
  },
  {
   "name": "hyperframe",
@@ -4305,7 +4324,7 @@
   "repo": "https://github.com/python-hyper/hyperframe/issues",
   "home": "https://github.com/python-hyper/hyperframe/",
   "downloads": 182809313,
-  "rank": 181
+  "rank": 182
  },
  {
   "name": "tabulate",
@@ -4326,7 +4345,7 @@
   "repo": "https://github.com/astanin/python-tabulate",
   "home": "https://github.com/astanin/python-tabulate",
   "downloads": 182103979,
-  "rank": 182
+  "rank": 183
  },
  {
   "name": "PyNaCl",
@@ -4345,7 +4364,7 @@
   "repo": "https://github.com/pyca/pynacl/issues",
   "home": "https://github.com/pyca/pynacl/",
   "downloads": 180233524,
-  "rank": 183
+  "rank": 184
  },
  {
   "name": "azure-core",
@@ -4367,7 +4386,7 @@
   "repo": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/core/azure-core",
   "home": "",
   "downloads": 179562555,
-  "rank": 184
+  "rank": 185
  },
  {
   "name": "kiwisolver",
@@ -4386,7 +4405,7 @@
   "repo": "https://github.com/nucleic/kiwi/blob/main/releasenotes.rst",
   "home": "",
   "downloads": 177676078,
-  "rank": 185
+  "rank": 186
  },
  {
   "name": "pypdf",
@@ -4407,7 +4426,7 @@
   "repo": "https://github.com/py-pdf/pypdf/issues",
   "home": "",
   "downloads": 176348328,
-  "rank": 186
+  "rank": 187
  },
  {
   "name": "ruamel.yaml",
@@ -4440,7 +4459,7 @@
   "repo": "",
   "home": "",
   "downloads": 175531520,
-  "rank": 187
+  "rank": 188
  },
  {
   "name": "bcrypt",
@@ -4459,7 +4478,7 @@
   "repo": "https://github.com/pyca/bcrypt/",
   "home": "",
   "downloads": 172781905,
-  "rank": 188
+  "rank": 189
  },
  {
   "name": "opentelemetry-instrumentation",
@@ -4478,16 +4497,16 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/opentelemetry-instrumentation",
   "home": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/opentelemetry-instrumentation",
   "downloads": 172192752,
-  "rank": 189
+  "rank": 190
  },
  {
   "name": "google-cloud-storage",
   "slug": "google-cloud-storage",
   "summary": "Google Cloud Storage API client library",
-  "version": "3.17.1",
-  "released": "2026-10-15",
+  "version": "3.17.2",
+  "released": "2026-11-23",
   "first_release": "2016-09-29",
-  "n_releases": 130,
+  "n_releases": 131,
   "license": "Apache Software License",
   "python": ">=3.10",
   "deps": 38,
@@ -4499,7 +4518,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-storage",
   "downloads": 171954945,
-  "rank": 190
+  "rank": 191
  },
  {
   "name": "google-cloud-bigquery",
@@ -4520,7 +4539,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-bigquery",
   "home": "",
   "downloads": 170471471,
-  "rank": 191
+  "rank": 192
  },
  {
   "name": "chardet",
@@ -4550,7 +4569,7 @@
   "repo": "https://github.com/chardet/chardet/issues",
   "home": "https://github.com/chardet/chardet",
   "downloads": 170288347,
-  "rank": 192
+  "rank": 193
  },
  {
   "name": "msal",
@@ -4569,7 +4588,7 @@
   "repo": "https://github.com/AzureAD/microsoft-authentication-library-for-python/releases",
   "home": "https://github.com/AzureAD/microsoft-authentication-library-for-python",
   "downloads": 170049622,
-  "rank": 193
+  "rank": 194
  },
  {
   "name": "google-crc32c",
@@ -4588,7 +4607,7 @@
   "repo": "https://github.com/googleapis/python-crc32c",
   "home": "https://github.com/googleapis/python-crc32c",
   "downloads": 168590029,
-  "rank": 194
+  "rank": 195
  },
  {
   "name": "contourpy",
@@ -4613,7 +4632,7 @@
   "repo": "https://github.com/contourpy/contourpy",
   "home": "https://github.com/contourpy/contourpy",
   "downloads": 166328131,
-  "rank": 195
+  "rank": 196
  },
  {
   "name": "cycler",
@@ -4635,7 +4654,7 @@
   "repo": "https://github.com/matplotlib/cycler",
   "home": "",
   "downloads": 165609935,
-  "rank": 196
+  "rank": 197
  },
  {
   "name": "langchain",
@@ -4659,7 +4678,7 @@
   "repo": "https://github.com/langchain-ai/langchain/releases?q=tag%3A%22langchain%3D%3D1%22",
   "home": "https://docs.langchain.com/",
   "downloads": 165175615,
-  "rank": 197
+  "rank": 198
  },
  {
   "name": "prometheus-client",
@@ -4687,7 +4706,7 @@
   "repo": "https://github.com/prometheus/client_python",
   "home": "https://github.com/prometheus/client_python",
   "downloads": 163547202,
-  "rank": 198
+  "rank": 199
  },
  {
   "name": "dill",
@@ -4711,7 +4730,7 @@
   "repo": "https://github.com/uqfoundation/dill/issues",
   "home": "https://github.com/uqfoundation/dill",
   "downloads": 163296757,
-  "rank": 199
+  "rank": 200
  },
  {
   "name": "librt",
@@ -4732,7 +4751,7 @@
   "repo": "https://github.com/mypyc/librt",
   "home": "https://github.com/mypyc/librt",
   "downloads": 162512903,
-  "rank": 200
+  "rank": 201
  },
  {
   "name": "google-resumable-media",
@@ -4753,7 +4772,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-resumable-media",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-resumable-media",
   "downloads": 161796405,
-  "rank": 201
+  "rank": 202
  },
  {
   "name": "google-genai",
@@ -4775,7 +4794,7 @@
   "repo": "https://github.com/googleapis/python-genai",
   "home": "https://github.com/googleapis/python-genai",
   "downloads": 161323461,
-  "rank": 202
+  "rank": 203
  },
  {
   "name": "xxhash",
@@ -4794,7 +4813,7 @@
   "repo": "https://github.com/ifduyue/python-xxhash",
   "home": "https://github.com/ifduyue/python-xxhash",
   "downloads": 160865402,
-  "rank": 203
+  "rank": 204
  },
  {
   "name": "keyring",
@@ -4813,7 +4832,7 @@
   "repo": "https://github.com/jaraco/keyring",
   "home": "",
   "downloads": 160595437,
-  "rank": 204
+  "rank": 205
  },
  {
   "name": "xlsxwriter",
@@ -4832,7 +4851,7 @@
   "repo": "https://github.com/jmcnamara/XlsxWriter/blob/main/Changes",
   "home": "https://github.com/jmcnamara/XlsxWriter",
   "downloads": 160022282,
-  "rank": 205
+  "rank": 206
  },
  {
   "name": "langchain-core",
@@ -4856,7 +4875,7 @@
   "repo": "https://github.com/langchain-ai/langchain/releases?q=%22langchain-core%3D%3D1%22",
   "home": "https://docs.langchain.com/",
   "downloads": 159702109,
-  "rank": 206
+  "rank": 207
  },
  {
   "name": "decorator",
@@ -4880,7 +4899,7 @@
   "repo": "https://github.com/micheles/decorator",
   "home": "https://github.com/micheles/decorator",
   "downloads": 159071681,
-  "rank": 207
+  "rank": 208
  },
  {
   "name": "identify",
@@ -4899,7 +4918,7 @@
   "repo": "https://github.com/pre-commit/identify",
   "home": "https://github.com/pre-commit/identify",
   "downloads": 158960400,
-  "rank": 208
+  "rank": 209
  },
  {
   "name": "grpcio-tools",
@@ -4908,7 +4927,7 @@
   "version": "1.85.3",
   "released": "2026-11-18",
   "first_release": "2016-05-10",
-  "n_releases": 279,
+  "n_releases": 280,
   "license": "Apache-2.0",
   "python": ">=3.10",
   "deps": 3,
@@ -4918,7 +4937,7 @@
   "repo": "https://github.com/grpc/grpc/issues",
   "home": "https://grpc.io",
   "downloads": 157724063,
-  "rank": 209
+  "rank": 210
  },
  {
   "name": "pre-commit",
@@ -4937,7 +4956,7 @@
   "repo": "https://github.com/pre-commit/pre-commit",
   "home": "https://github.com/pre-commit/pre-commit",
   "downloads": 157301242,
-  "rank": 210
+  "rank": 211
  },
  {
   "name": "jaraco.classes",
@@ -4956,7 +4975,7 @@
   "repo": "https://github.com/jaraco/jaraco.classes",
   "home": "https://github.com/jaraco/jaraco.classes",
   "downloads": 156445476,
-  "rank": 211
+  "rank": 212
  },
  {
   "name": "cfgv",
@@ -4975,7 +4994,7 @@
   "repo": "https://github.com/asottile/cfgv",
   "home": "https://github.com/asottile/cfgv",
   "downloads": 156033859,
-  "rank": 212
+  "rank": 213
  },
  {
   "name": "jaraco.functools",
@@ -4994,7 +5013,7 @@
   "repo": "https://github.com/jaraco/jaraco.functools",
   "home": "",
   "downloads": 155779829,
-  "rank": 213
+  "rank": 214
  },
  {
   "name": "uv",
@@ -5021,7 +5040,7 @@
   "repo": "https://github.com/astral-sh/uv/blob/main/CHANGELOG.md",
   "home": "https://pypi.org/project/uv/",
   "downloads": 155606520,
-  "rank": 214
+  "rank": 215
  },
  {
   "name": "jsonpointer",
@@ -5043,19 +5062,19 @@
   "repo": "https://github.com/stefankoegl/python-json-pointer",
   "home": "https://github.com/stefankoegl/python-json-pointer",
   "downloads": 155164497,
-  "rank": 215
+  "rank": 216
  },
  {
   "name": "sentry-sdk",
   "slug": "sentry-sdk",
   "summary": "Python client for Sentry (https://sentry.io)",
-  "version": "2.75.0",
-  "released": "2026-11-12",
+  "version": "3.0.0",
+  "released": "2026-11-23",
   "first_release": "2018-07-26",
-  "n_releases": 360,
+  "n_releases": 364,
   "license": "MIT",
-  "python": ">=3.6",
-  "deps": 55,
+  "python": ">=3.7",
+  "deps": 15,
   "topics": [
    "Software Development"
   ],
@@ -5064,7 +5083,7 @@
   "repo": "https://github.com/getsentry/sentry-python/blob/master/CHANGELOG.md",
   "home": "https://github.com/getsentry/sentry-python",
   "downloads": 154800633,
-  "rank": 216
+  "rank": 217
  },
  {
   "name": "sympy",
@@ -5092,7 +5111,7 @@
   "repo": "https://github.com/sympy/sympy",
   "home": "https://sympy.org",
   "downloads": 153378530,
-  "rank": 217
+  "rank": 218
  },
  {
   "name": "jeepney",
@@ -5115,7 +5134,7 @@
   "repo": "https://gitlab.com/takluyver/jeepney",
   "home": "",
   "downloads": 153220282,
-  "rank": 218
+  "rank": 219
  },
  {
   "name": "GitPython",
@@ -5136,7 +5155,7 @@
   "repo": "https://github.com/gitpython-developers/GitPython/blob/main/doc/source/changes.rst",
   "home": "",
   "downloads": 152016789,
-  "rank": 219
+  "rank": 220
  },
  {
   "name": "mpmath",
@@ -5160,7 +5179,7 @@
   "repo": "https://github.com/mpmath/mpmath/issues",
   "home": "https://mpmath.org/",
   "downloads": 151371771,
-  "rank": 220
+  "rank": 221
  },
  {
   "name": "SecretStorage",
@@ -5184,7 +5203,7 @@
   "repo": "https://github.com/mitya57/secretstorage",
   "home": "https://github.com/mitya57/secretstorage",
   "downloads": 151339462,
-  "rank": 221
+  "rank": 222
  },
  {
   "name": "jaraco.context",
@@ -5203,7 +5222,7 @@
   "repo": "https://github.com/jaraco/jaraco.context",
   "home": "",
   "downloads": 151058078,
-  "rank": 222
+  "rank": 223
  },
  {
   "name": "backoff",
@@ -5232,7 +5251,7 @@
   "repo": "https://github.com/litl/backoff",
   "home": "https://github.com/litl/backoff",
   "downloads": 149912310,
-  "rank": 223
+  "rank": 224
  },
  {
   "name": "asgiref",
@@ -5255,7 +5274,7 @@
   "repo": "https://github.com/django/asgiref/blob/master/CHANGELOG.txt",
   "home": "https://github.com/django/asgiref/",
   "downloads": 149176850,
-  "rank": 224
+  "rank": 225
  },
  {
   "name": "docutils",
@@ -5292,7 +5311,7 @@
   "repo": "",
   "home": "https://docutils.sourceforge.io",
   "downloads": 148830014,
-  "rank": 225
+  "rank": 226
  },
  {
   "name": "Deprecated",
@@ -5320,7 +5339,7 @@
   "repo": "https://github.com/laurent-laporte-pro/deprecated/issues",
   "home": "https://github.com/laurent-laporte-pro/deprecated",
   "downloads": 148818658,
-  "rank": 226
+  "rank": 227
  },
  {
   "name": "docker",
@@ -5342,7 +5361,7 @@
   "repo": "https://github.com/docker/docker-py",
   "home": "https://github.com/docker/docker-py",
   "downloads": 147284368,
-  "rank": 227
+  "rank": 228
  },
  {
   "name": "asn1crypto",
@@ -5373,7 +5392,7 @@
   "repo": "https://github.com/wbond/asn1crypto",
   "home": "https://github.com/wbond/asn1crypto",
   "downloads": 145910030,
-  "rank": 228
+  "rank": 229
  },
  {
   "name": "toml",
@@ -5392,7 +5411,7 @@
   "repo": "https://github.com/uiri/toml",
   "home": "https://github.com/uiri/toml",
   "downloads": 145068664,
-  "rank": 229
+  "rank": 230
  },
  {
   "name": "uritemplate",
@@ -5416,7 +5435,7 @@
   "repo": "https://github.com/python-hyper/uritemplate",
   "home": "https://uritemplate.readthedocs.org",
   "downloads": 144693864,
-  "rank": 230
+  "rank": 231
  },
  {
   "name": "smmap",
@@ -5435,7 +5454,7 @@
   "repo": "https://github.com/gitpython-developers/smmap",
   "home": "https://github.com/gitpython-developers/smmap",
   "downloads": 144368642,
-  "rank": 231
+  "rank": 232
  },
  {
   "name": "webencodings",
@@ -5461,7 +5480,7 @@
   "repo": "https://github.com/CourtBouillon/webencodings/releases",
   "home": "https://github.com/CourtBouillon/webencodings",
   "downloads": 144270829,
-  "rank": 232
+  "rank": 233
  },
  {
   "name": "ptyprocess",
@@ -5484,7 +5503,7 @@
   "repo": "https://github.com/pexpect/ptyprocess",
   "home": "https://github.com/pexpect/ptyprocess",
   "downloads": 141062368,
-  "rank": 233
+  "rank": 234
  },
  {
   "name": "narwhals",
@@ -5512,7 +5531,7 @@
   "repo": "https://github.com/narwhals-dev/narwhals/issues",
   "home": "https://github.com/narwhals-dev/narwhals",
   "downloads": 139399049,
-  "rank": 234
+  "rank": 235
  },
  {
   "name": "traitlets",
@@ -5536,7 +5555,7 @@
   "repo": "https://github.com/ipython/traitlets",
   "home": "https://github.com/ipython/traitlets",
   "downloads": 139107534,
-  "rank": 235
+  "rank": 236
  },
  {
   "name": "gitdb",
@@ -5555,7 +5574,7 @@
   "repo": "https://github.com/gitpython-developers/gitdb",
   "home": "https://github.com/gitpython-developers/gitdb",
   "downloads": 138397566,
-  "rank": 236
+  "rank": 237
  },
  {
   "name": "google-api-python-client",
@@ -5582,7 +5601,7 @@
   "repo": "https://github.com/googleapis/google-api-python-client/",
   "home": "https://github.com/googleapis/google-api-python-client/",
   "downloads": 138383232,
-  "rank": 237
+  "rank": 238
  },
  {
   "name": "azure-identity",
@@ -5604,7 +5623,7 @@
   "repo": "https://github.com/Azure/azure-sdk-for-python",
   "home": "",
   "downloads": 136835033,
-  "rank": 238
+  "rank": 239
  },
  {
   "name": "asyncpg",
@@ -5630,7 +5649,7 @@
   "repo": "https://github.com/MagicStack/asyncpg",
   "home": "",
   "downloads": 136646405,
-  "rank": 239
+  "rank": 240
  },
  {
   "name": "aiofiles",
@@ -5649,7 +5668,7 @@
   "repo": "https://github.com/Tinche/aiofiles/issues",
   "home": "",
   "downloads": 136444831,
-  "rank": 240
+  "rank": 241
  },
  {
   "name": "google-auth-httplib2",
@@ -5677,7 +5696,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-httplib2",
   "downloads": 134697079,
-  "rank": 241
+  "rank": 242
  },
  {
   "name": "pexpect",
@@ -5708,7 +5727,7 @@
   "repo": "https://github.com/pexpect/pexpect/issues",
   "home": "https://pexpect.readthedocs.io/",
   "downloads": 134317645,
-  "rank": 242
+  "rank": 243
  },
  {
   "name": "RapidFuzz",
@@ -5727,7 +5746,7 @@
   "repo": "https://github.com/rapidfuzz/RapidFuzz/blob/main/CHANGELOG.rst",
   "home": "https://github.com/rapidfuzz/RapidFuzz",
   "downloads": 133787978,
-  "rank": 243
+  "rank": 244
  },
  {
   "name": "httplib2",
@@ -5751,7 +5770,7 @@
   "repo": "https://github.com/httplib2/httplib2",
   "home": "https://github.com/httplib2/httplib2",
   "downloads": 133117816,
-  "rank": 244
+  "rank": 245
  },
  {
   "name": "opentelemetry-util-http",
@@ -5770,7 +5789,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http",
   "home": "https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/util/opentelemetry-util-http",
   "downloads": 132575301,
-  "rank": 245
+  "rank": 246
  },
  {
   "name": "msal-extensions",
@@ -5789,7 +5808,7 @@
   "repo": "https://github.com/AzureAD/microsoft-authentication-extensions-for-python/releases",
   "home": "",
   "downloads": 129128187,
-  "rank": 246
+  "rank": 247
  },
  {
   "name": "Authlib",
@@ -5816,7 +5835,7 @@
   "repo": "https://github.com/sponsors/lepture",
   "home": "",
   "downloads": 127396955,
-  "rank": 247
+  "rank": 248
  },
  {
   "name": "pytest-json-ctrf",
@@ -5835,7 +5854,7 @@
   "repo": "https://github.com/infopulse/pytest-common-test-report-json",
   "home": "https://github.com/infopulse/pytest-common-test-report-json",
   "downloads": 126303333,
-  "rank": 248
+  "rank": 249
  },
  {
   "name": "fastjsonschema",
@@ -5856,7 +5875,7 @@
   "repo": "https://github.com/horejsek/python-fastjsonschema",
   "home": "https://github.com/horejsek/python-fastjsonschema",
   "downloads": 126252437,
-  "rank": 249
+  "rank": 250
  },
  {
   "name": "jsonpatch",
@@ -5878,7 +5897,7 @@
   "repo": "https://github.com/stefankoegl/python-json-patch",
   "home": "https://github.com/stefankoegl/python-json-patch",
   "downloads": 126113477,
-  "rank": 250
+  "rank": 251
  },
  {
   "name": "black",
@@ -5909,7 +5928,7 @@
   "repo": "https://github.com/psf/black/blob/main/CHANGES.md",
   "home": "",
   "downloads": 125928561,
-  "rank": 251
+  "rank": 252
  },
  {
   "name": "playwright",
@@ -5934,7 +5953,7 @@
   "repo": "https://github.com/microsoft/playwright-python/releases",
   "home": "",
   "downloads": 124971918,
-  "rank": 252
+  "rank": 253
  },
  {
   "name": "executing",
@@ -5953,7 +5972,7 @@
   "repo": "https://github.com/alexmojaki/executing",
   "home": "https://github.com/alexmojaki/executing",
   "downloads": 124911448,
-  "rank": 253
+  "rank": 254
  },
  {
   "name": "google-auth-oauthlib",
@@ -5982,7 +6001,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-oauthlib",
   "home": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-auth-oauthlib",
   "downloads": 124847786,
-  "rank": 254
+  "rank": 255
  },
  {
   "name": "opentelemetry-exporter-otlp-proto-grpc",
@@ -6001,7 +6020,7 @@
   "repo": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
   "home": "https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-otlp-proto-grpc",
   "downloads": 124377008,
-  "rank": 255
+  "rank": 256
  },
  {
   "name": "sqlparse",
@@ -6025,7 +6044,7 @@
   "repo": "https://github.com/andialbrecht/sqlparse",
   "home": "",
   "downloads": 123563400,
-  "rank": 256
+  "rank": 257
  },
  {
   "name": "python-docx",
@@ -6054,7 +6073,7 @@
   "repo": "https://github.com/python-openxml/python-docx/blob/master/HISTORY.rst",
   "home": "https://github.com/python-openxml/python-docx",
   "downloads": 122593427,
-  "rank": 257
+  "rank": 258
  },
  {
   "name": "babel",
@@ -6077,7 +6096,7 @@
   "repo": "https://github.com/python-babel/babel",
   "home": "https://babel.pocoo.org/",
   "downloads": 120670678,
-  "rank": 258
+  "rank": 259
  },
  {
   "name": "pyee",
@@ -6107,7 +6126,7 @@
   "repo": "https://github.com/jfhbrook/pyee",
   "home": "",
   "downloads": 119169472,
-  "rank": 259
+  "rank": 260
  },
  {
   "name": "async-timeout",
@@ -6128,7 +6147,7 @@
   "repo": "https://github.com/aio-libs/async-timeout/actions",
   "home": "https://github.com/aio-libs/async-timeout",
   "downloads": 118684437,
-  "rank": 260
+  "rank": 261
  },
  {
   "name": "pymupdf",
@@ -6153,7 +6172,7 @@
   "repo": "https://github.com/pymupdf/pymupdf",
   "home": "",
   "downloads": 118343922,
-  "rank": 261
+  "rank": 262
  },
  {
   "name": "gunicorn",
@@ -6181,7 +6200,7 @@
   "repo": "https://github.com/benoitc/gunicorn/issues",
   "home": "https://gunicorn.org",
   "downloads": 117671494,
-  "rank": 262
+  "rank": 263
  },
  {
   "name": "tornado",
@@ -6200,7 +6219,7 @@
   "repo": "https://github.com/tornadoweb/tornado",
   "home": "http://www.tornadoweb.org/",
   "downloads": 117669398,
-  "rank": 263
+  "rank": 264
  },
  {
   "name": "Markdown",
@@ -6237,7 +6256,7 @@
   "repo": "https://github.com/Python-Markdown/markdown/issues",
   "home": "https://Python-Markdown.github.io/",
   "downloads": 117191491,
-  "rank": 264
+  "rank": 265
  },
  {
   "name": "grpc-google-iam-v1",
@@ -6258,7 +6277,7 @@
   "repo": "https://github.com/googleapis/google-cloud-python",
   "home": "",
   "downloads": 117051056,
-  "rank": 265
+  "rank": 266
  },
  {
   "name": "joserfc",
@@ -6282,7 +6301,7 @@
   "repo": "https://github.com/sponsors/authlib",
   "home": "",
   "downloads": 116945027,
-  "rank": 266
+  "rank": 267
  },
  {
   "name": "python-pptx",
@@ -6312,7 +6331,7 @@
   "repo": "https://github.com/scanny/python-pptx/blob/master/HISTORY.rst",
   "home": "https://github.com/scanny/python-pptx",
   "downloads": 116401230,
-  "rank": 267
+  "rank": 268
  },
  {
   "name": "transformers",
@@ -6350,7 +6369,7 @@
   "repo": "https://github.com/huggingface/transformers",
   "home": "https://github.com/huggingface/transformers",
   "downloads": 115116893,
-  "rank": 268
+  "rank": 269
  },
  {
   "name": "tinycss2",
@@ -6376,7 +6395,7 @@
   "repo": "https://github.com/Kozea/tinycss2/releases",
   "home": "https://www.courtbouillon.org/tinycss2",
   "downloads": 114660281,
-  "rank": 269
+  "rank": 270
  },
  {
   "name": "paramiko",
@@ -6400,7 +6419,7 @@
   "repo": "https://github.com/paramiko/paramiko/issues",
   "home": "",
   "downloads": 114432649,
-  "rank": 270
+  "rank": 271
  },
  {
   "name": "jedi",
@@ -6429,7 +6448,7 @@
   "repo": "https://github.com/davidhalter/jedi",
   "home": "https://github.com/davidhalter/jedi",
   "downloads": 113854190,
-  "rank": 271
+  "rank": 272
  },
  {
   "name": "structlog",
@@ -6457,7 +6476,7 @@
   "repo": "https://github.com/hynek/structlog/blob/main/CHANGELOG.md",
   "home": "",
   "downloads": 113721656,
-  "rank": 272
+  "rank": 273
  },
  {
   "name": "parso",
@@ -6485,7 +6504,7 @@
   "repo": "https://github.com/davidhalter/parso",
   "home": "https://github.com/davidhalter/parso",
   "downloads": 112988535,
-  "rank": 273
+  "rank": 274
  },
  {
   "name": "snowflake-connector-python",
@@ -6515,7 +6534,7 @@
   "repo": "https://github.com/snowflakedb/drivers/issues",
   "home": "https://github.com/snowflakedb/drivers",
   "downloads": 112950671,
-  "rank": 274
+  "rank": 275
  },
  {
   "name": "flatbuffers",
@@ -6536,16 +6555,16 @@
   "repo": "https://github.com/google/flatbuffers",
   "home": "https://google.github.io/flatbuffers/",
   "downloads": 112468521,
-  "rank": 275
+  "rank": 276
  },
  {
   "name": "ipython",
   "slug": "ipython",
   "summary": "IPython: Productive Interactive Computing",
-  "version": "9.18.1",
-  "released": "2026-11-02",
+  "version": "9.19.1",
+  "released": "2026-11-23",
   "first_release": "2007-01-05",
-  "n_releases": 227,
+  "n_releases": 228,
   "license": "BSD-3-Clause",
   "python": ">=3.11",
   "deps": 39,
@@ -6564,7 +6583,7 @@
   "repo": "https://github.com/ipython/ipython",
   "home": "https://ipython.org",
   "downloads": 112433296,
-  "rank": 276
+  "rank": 277
  },
  {
   "name": "asttokens",
@@ -6596,7 +6615,7 @@
   "repo": "https://github.com/gristlabs/asttokens",
   "home": "https://github.com/gristlabs/asttokens",
   "downloads": 111262160,
-  "rank": 277
+  "rank": 278
  },
  {
   "name": "xmltodict",
@@ -6619,7 +6638,7 @@
   "repo": "https://github.com/martinblech/xmltodict",
   "home": "https://github.com/martinblech/xmltodict",
   "downloads": 110655930,
-  "rank": 278
+  "rank": 279
  },
  {
   "name": "mcp-types",
@@ -6642,7 +6661,7 @@
   "repo": "https://github.com/modelcontextprotocol/python-sdk/issues",
   "home": "https://modelcontextprotocol.io",
   "downloads": 110574490,
-  "rank": 279
+  "rank": 280
  },
  {
   "name": "pyzmq",
@@ -6665,7 +6684,7 @@
   "repo": "https://github.com/zeromq/pyzmq",
   "home": "https://pyzmq.readthedocs.org",
   "downloads": 109881085,
-  "rank": 280
+  "rank": 281
  },
  {
   "name": "pytest-timeout",
@@ -6688,7 +6707,7 @@
   "repo": "https://github.com/pytest-dev/pytest-timeout",
   "home": "https://github.com/pytest-dev/pytest-timeout",
   "downloads": 109815343,
-  "rank": 281
+  "rank": 282
  },
  {
   "name": "brotli",
@@ -6716,7 +6735,7 @@
   "repo": "https://github.com/google/brotli",
   "home": "https://github.com/google/brotli",
   "downloads": 109196691,
-  "rank": 282
+  "rank": 283
  },
  {
   "name": "pyproject-hooks",
@@ -6735,7 +6754,7 @@
   "repo": "https://github.com/pypa/pyproject-hooks",
   "home": "",
   "downloads": 107653178,
-  "rank": 283
+  "rank": 284
  },
  {
   "name": "onnxruntime",
@@ -6765,7 +6784,7 @@
   "repo": "https://github.com/microsoft/onnxruntime/tags",
   "home": "https://onnxruntime.ai",
   "downloads": 107512090,
-  "rank": 284
+  "rank": 285
  },
  {
   "name": "matplotlib-inline",
@@ -6792,7 +6811,7 @@
   "repo": "https://github.com/ipython/matplotlib-inline",
   "home": "https://github.com/ipython/matplotlib-inline",
   "downloads": 107476436,
-  "rank": 285
+  "rank": 286
  },
  {
   "name": "pure-eval",
@@ -6811,7 +6830,7 @@
   "repo": "http://github.com/alexmojaki/pure_eval",
   "home": "http://github.com/alexmojaki/pure_eval",
   "downloads": 106024578,
-  "rank": 286
+  "rank": 287
  },
  {
   "name": "azure-storage-blob",
@@ -6833,7 +6852,7 @@
   "repo": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-blob",
   "home": "https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/storage/azure-storage-blob",
   "downloads": 105190981,
-  "rank": 287
+  "rank": 288
  },
  {
   "name": "watchdog",
@@ -6869,7 +6888,7 @@
   "repo": "https://github.com/gorakhargosh/watchdog/blob/master/changelog.rst",
   "home": "https://github.com/gorakhargosh/watchdog",
   "downloads": 104553967,
-  "rank": 288
+  "rank": 289
  },
  {
   "name": "build",
@@ -6888,7 +6907,7 @@
   "repo": "https://github.com/pypa/build/issues",
   "home": "",
   "downloads": 103953161,
-  "rank": 289
+  "rank": 290
  },
  {
   "name": "ast-serialize",
@@ -6909,7 +6928,7 @@
   "repo": "https://github.com/mypyc/ast_serialize",
   "home": "https://github.com/mypyc/ast_serialize",
   "downloads": 103834459,
-  "rank": 290
+  "rank": 291
  },
  {
   "name": "stack-data",
@@ -6932,7 +6951,7 @@
   "repo": "http://github.com/alexmojaki/stack_data",
   "home": "http://github.com/alexmojaki/stack_data",
   "downloads": 103471603,
-  "rank": 291
+  "rank": 292
  },
  {
   "name": "python-json-logger",
@@ -6955,7 +6974,7 @@
   "repo": "https://github.com/nhairs/python-json-logger",
   "home": "https://nhairs.github.io/python-json-logger",
   "downloads": 101812777,
-  "rank": 292
+  "rank": 293
  },
  {
   "name": "aioitertools",
@@ -6976,16 +6995,16 @@
   "repo": "https://github.com/omnilib/aioitertools",
   "home": "",
   "downloads": 101068282,
-  "rank": 293
+  "rank": 294
  },
  {
   "name": "litellm",
   "slug": "litellm",
   "summary": "Library to easily interface with LLM API providers",
-  "version": "1.110.2",
-  "released": "2026-11-20",
+  "version": "1.110.3",
+  "released": "2026-11-24",
   "first_release": "2023-07-27",
-  "n_releases": 971,
+  "n_releases": 974,
   "license": "MIT",
   "python": "<3.16,>=3.10",
   "deps": 119,
@@ -6995,7 +7014,7 @@
   "repo": "https://github.com/BerriAI/litellm",
   "home": "https://litellm.ai",
   "downloads": 100336915,
-  "rank": 294
+  "rank": 295
  },
  {
   "name": "isort",
@@ -7023,7 +7042,7 @@
   "repo": "https://github.com/PyCQA/isort/releases",
   "home": "https://isort.readthedocs.io/",
   "downloads": 100154130,
-  "rank": 295
+  "rank": 296
  },
  {
   "name": "CacheControl",
@@ -7051,7 +7070,7 @@
   "repo": "https://github.com/psf/cachecontrol/issues",
   "home": "https://pypi.org/project/CacheControl/",
   "downloads": 100087887,
-  "rank": 296
+  "rank": 297
  },
  {
   "name": "griffelib",
@@ -7083,7 +7102,7 @@
   "repo": "https://github.com/mkdocstrings/griffe/discussions",
   "home": "https://mkdocstrings.github.io/griffe",
   "downloads": 97136080,
-  "rank": 297
+  "rank": 298
  },
  {
   "name": "google-cloud-aiplatform",
@@ -7105,7 +7124,7 @@
   "repo": "https://github.com/googleapis/python-aiplatform",
   "home": "https://github.com/googleapis/python-aiplatform",
   "downloads": 94484658,
-  "rank": 298
+  "rank": 299
  },
  {
   "name": "jupyter-core",
@@ -7124,6 +7143,6 @@
   "repo": "https://github.com/jupyter/jupyter_core",
   "home": "https://jupyter.org",
   "downloads": 94049620,
-  "rank": 299
+  "rank": 300
  }
 ]
